@@ -1,0 +1,671 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fibonacci.Trader - 周期全量统计 + 江恩螺旋</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+    <script src="analysis.js"></script>
+    <style>
+      /* --- 1. 你原来的全部样式 (一个字没动) --- */
+      body {
+        margin: 0;
+        padding: 20px;
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        background: #f5f7f9;
+        color: #333;
+      }
+      ::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #d1d1d1;
+        border-radius: 10px;
+      }
+      #container {
+        background: #fff;
+        border-radius: 12px;
+        padding: 20px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        max-width: 1440px;
+        margin: 0 auto;
+      }
+      .toolbar {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+      }
+      .group {
+        display: flex;
+        gap: 4px;
+        background: #f0f0f0;
+        padding: 3px;
+        border-radius: 6px;
+      }
+      .btn {
+        padding: 4px 12px;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        border-radius: 4px;
+        font-size: 12px;
+        transition: 0.2s;
+      }
+      .btn.active {
+        background: #fff;
+        color: #ff9800;
+        font-weight: bold;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      #main {
+        width: 100%;
+        height: 500px;
+        border: 1px solid #f0f0f0;
+        border-radius: 8px;
+      }
+      .analysis-grid {
+        display: grid;
+        grid-template-columns: 1.3fr 1fr;
+        gap: 20px;
+        margin-top: 20px;
+      }
+      .box {
+        background: #fff;
+        border: 1px solid #eee;
+        border-radius: 8px;
+        height: 420px;
+        overflow-y: auto;
+        scrollbar-gutter: stable;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 12px;
+      }
+      th {
+        background: #fafafa;
+        padding: 12px;
+        text-align: left;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        border-bottom: 2px solid #eee;
+        color: #666;
+      }
+      td {
+        padding: 10px 12px;
+        border-bottom: 1px solid #f9f9f9;
+      }
+      .fib-panel {
+        background: #fffdf6;
+        border: 1px solid #ffe58f;
+        border-radius: 8px;
+        height: 420px;
+        overflow-y: auto;
+        scrollbar-gutter: stable;
+        display: flex;
+        flex-direction: column;
+      }
+      .fib-header {
+        position: sticky;
+        top: 0;
+        background: #fffbe6;
+        padding: 12px 15px;
+        border-bottom: 1px solid #ffe58f;
+        z-index: 10;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .prob-val {
+        font-size: 22px;
+        color: #f5222d;
+        font-weight: 800;
+        font-family: "Courier New", monospace;
+      }
+      .fib-list {
+        padding: 15px;
+      }
+      .fib-item {
+        margin-bottom: 10px;
+        padding: 10px;
+        background: #fff;
+        border-left: 4px solid #ff9800;
+        border-radius: 2px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+      }
+      .tag {
+        font-size: 10px;
+        padding: 1px 5px;
+        border-radius: 3px;
+        margin-right: 5px;
+        border: 1px solid;
+        font-weight: bold;
+      }
+      .tag-t {
+        background: #e6f7ff;
+        color: #1890ff;
+        border-color: #91d5ff;
+      }
+      .tag-r {
+        background: #f6ffed;
+        color: #52c41a;
+        border-color: #b7eb8f;
+      }
+      .up {
+        color: #52c41a;
+        font-weight: bold;
+      }
+      .down {
+        color: #f5222d;
+        font-weight: bold;
+      }
+
+      /* --- 2. 九方图专属样式 (新增) --- */
+      :root {
+        --g-size: 32px;
+      }
+      .gann-section {
+        margin-top: 30px;
+        border-top: 2px solid #eee;
+        padding-top: 20px;
+      }
+      .gann-ctrl {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 10px;
+        font-size: 13px;
+        font-weight: bold;
+      }
+      .gann-wrap {
+        overflow: auto;
+        background: #fff;
+        padding: 15px;
+        border: 1px solid #eee;
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+      }
+      .gann-table {
+        border-collapse: collapse;
+        table-layout: fixed;
+        width: auto;
+      }
+      .gann-table td {
+        width: var(--g-size);
+        height: var(--g-size);
+        border: 1px solid #e2e8f0;
+        padding: 0;
+        background: #fff;
+        box-sizing: border-box;
+        aspect-ratio: 1 / 1;
+      }
+      .c-box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        width: 100%;
+      }
+      .c-date {
+        font-weight: 700;
+        font-size: calc(var(--g-size) * 0.3);
+        color: #1e293b;
+        line-height: 1.1;
+      }
+      .c-num {
+        font-size: calc(var(--g-size) * 0.2);
+        opacity: 0.4;
+      }
+      .g-center {
+        background: #fff7e6 !important;
+        outline: 1.5px solid #ffa940;
+        position: relative;
+        z-index: 5;
+      }
+      .g-diag {
+        background: #f8fafc;
+      }
+      .g-peak {
+        background: #f6ffed !important;
+        border: 2.5px solid #52c41a !important;
+      } /* 峰值-绿 */
+      .g-valley {
+        background: #fff1f0 !important;
+        border: 2.5px solid #f5222d !important;
+      } /* 谷值-红 */
+      .hide-text .c-box {
+        visibility: hidden;
+      }
+
+      /* --- 3. 傅里叶面板追加样式 --- */
+      .fft-panel {
+        margin-top: 20px;
+        background: #f0f7ff;
+        border: 1px dashed #1890ff;
+        border-radius: 12px;
+        padding: 15px;
+      }
+      .fft-flex {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-top: 10px;
+      }
+      .fft-card {
+        background: #fff;
+        border-left: 4px solid #1890ff;
+        padding: 10px;
+        border-radius: 4px;
+        min-width: 80px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+      }
+      .fft-val {
+        font-size: 18px;
+        font-weight: 800;
+        color: #f5222d;
+        font-family: monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div class="toolbar">
+        <div class="group" id="scaleGroup">
+          <button class="btn active" onclick="app.updateScale('value', this)">
+            线性轴
+          </button>
+          <button class="btn" onclick="app.updateScale('log', this)">
+            对数轴
+          </button>
+        </div>
+        <div class="group" id="yearPicker"></div>
+      </div>
+
+      <div id="main"></div>
+
+      <div class="analysis-grid">
+        <div class="box">
+          <table>
+            <thead>
+              <tr>
+                <th>方向</th>
+                <th>日期区间</th>
+                <th>间隔(d)</th>
+                <th>价格轨迹</th>
+                <th>幅度</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+        <div class="fib-panel">
+          <div class="fib-header">
+            <span style="font-weight: bold; color: #856404"
+              >⏳ 规律匹配 (按日期由小到大)</span
+            >
+            <div>符合率: <span class="prob-val">0%</span></div>
+          </div>
+          <div id="fibList" class="fib-list">
+            <div style="color: #999; text-align: center; margin-top: 20px">
+              正在扫描斐波那契序列...
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="fft-panel">
+        <div style="font-weight: bold; color: #003a8c">
+          📡 傅里叶变换：共振周期提取 (主导变盘天数频率)
+        </div>
+        <div id="fftResult" class="fft-flex"></div>
+      </div>
+
+      <div class="gann-section">
+        <div class="gann-ctrl">
+          <span>🌀 江恩 28x28 螺旋 (起始日期: 2023/01/01)</span>
+          <input
+            type="range"
+            min="15"
+            max="60"
+            value="32"
+            oninput="gann.updateSize(this.value)"
+          />
+          <span id="gLabel">32px</span>
+        </div>
+        <div class="gann-wrap"><div id="gannDisplay"></div></div>
+      </div>
+    </div>
+
+    <script>
+      const app = {
+        chart: echarts.init(document.getElementById("main")),
+        data: [],
+        pivots: [],
+        state: {
+          yType: "value",
+          yRange: { min: null, max: null },
+          isDragging: false,
+        },
+
+        async init() {
+          try {
+            const raw = await fetch("spy_3yr_data.json").then((r) => r.json());
+            this.data = KLineAnalyzer.preprocess(raw);
+            this.pivots = KLineAnalyzer.getPivots(this.data, 5);
+            this.renderYearBtns();
+
+            // 初始化九方图结构
+            gann.initSpiral();
+
+            this.refresh();
+            this.bindEvents();
+          } catch (e) {
+            console.error("数据加载失败", e);
+          }
+        },
+
+        refresh() {
+          const option = {
+            animation: false,
+            grid: {
+              left: "30px",
+              right: "60px",
+              top: "30px",
+              bottom: "60px",
+              containLabel: true,
+            },
+            xAxis: {
+              type: "category",
+              data: this.data.map((d) => d.fullDate),
+              boundaryGap: false,
+              axisLine: { lineStyle: { color: "#ccc" } },
+            },
+            yAxis: {
+              type: this.state.yType,
+              scale: true,
+              position: "right",
+              min: this.state.yRange.min,
+              max: this.state.yRange.max,
+              axisLine: { show: false },
+              splitLine: { lineStyle: { type: "dashed", color: "#eee" } },
+            },
+            dataZoom: [
+              { type: "inside", filterMode: "empty" },
+              { type: "slider", filterMode: "empty", bottom: 10, height: 20 },
+            ],
+            series: [
+              {
+                name: "K线",
+                type: "candlestick",
+                data: this.data.map((d) => [d.open, d.close, d.low, d.high]),
+                itemStyle: {
+                  color: "#52c41a",
+                  color0: "#f5222d",
+                  borderColor: "#52c41a",
+                  borderColor0: "#f5222d",
+                },
+              },
+              {
+                name: "波段",
+                type: "line",
+                data: this.pivots.map((p) => [p.index, p.price]),
+                lineStyle: { color: "#ff9800", width: 2.5 },
+                symbol: "circle",
+                symbolSize: 6,
+                z: 10,
+              },
+            ],
+          };
+          this.chart.setOption(option, true);
+          this.updateStats();
+        },
+
+        updateStats() {
+          const axis = this.chart.getModel().getComponent("xAxis", 0).axis;
+          const [s, e] = axis
+            .getExtent()
+            .map((v) => Math.round(axis.coordToData(v)));
+          let visible = this.pivots
+            .filter((p) => p.index >= s && p.index <= e)
+            .map((p) => ({ ...p, date: this.data[p.index].fullDate }));
+
+          // 1. 渲染表格
+          let tableHtml = "";
+          for (let i = 1; i < visible.length; i++) {
+            const curr = visible[i],
+              prev = visible[i - 1];
+            const diff = curr.price - prev.price;
+            const pct = ((diff / prev.price) * 100).toFixed(2);
+            tableHtml += `<tr><td class="${diff > 0 ? "up" : "down"}">${diff > 0 ? "上涨" : "下跌"}</td><td>${prev.date} → ${curr.date}</td><td>${curr.index - prev.index}d</td><td>${prev.price.toFixed(2)} → ${curr.price.toFixed(2)}</td><td class="${diff > 0 ? "up" : "down"}">${diff > 0 ? "+" : ""}${pct}%</td></tr>`;
+          }
+          document.getElementById("tableBody").innerHTML =
+            tableHtml || "<tr><td colspan='5'>缩放图表以查看详细波段</td></tr>";
+
+          // 2. 渲染斐波那契
+          const fib = KLineAnalyzer.analyzeFibonacci(visible);
+          if (fib) {
+            document.querySelector(".prob-val").innerText = fib.prob + "%";
+            const listHtml = fib.list
+              .map((f) => {
+                if (!f.tMatch && !f.rMatch) return "";
+                return `<div class="fib-item"><div style="display:flex; justify-content:space-between; margin-bottom:5px;"><b style="font-size:13px;">${f.date}</b><span style="color:#888;">周期: ${f.days}天</span></div><div style="display:flex; gap:5px;">${f.tMatch ? `<span class="tag tag-t">时间序列: ${f.tMatch}d</span>` : ""}${f.rMatch ? `<span class="tag tag-r">黄金比率: ${f.rMatch}</span>` : ""}</div></div>`;
+              })
+              .join("");
+            document.getElementById("fibList").innerHTML =
+              listHtml ||
+              "<div style='color:#999; text-align:center;'>当前区间未匹配到规律</div>";
+          }
+
+          // 3. 触发九方图重绘颜色 (新增)
+          gann.paint();
+
+          // 4. 追加逻辑：静默触发傅里叶分析
+          if (window.runFFT) window.runFFT(visible);
+        },
+
+        updateScale(type, btn) {
+          this.state.yType = type;
+          this.state.yRange = { min: null, max: null };
+          document
+            .querySelectorAll("#scaleGroup .btn")
+            .forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+          this.refresh();
+        },
+
+        zoomTo(year, btn) {
+          this.state.yRange = { min: null, max: null };
+          document
+            .querySelectorAll(".year-btn")
+            .forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+          const sIdx =
+            year === "all"
+              ? 0
+              : this.data.findIndex((d) => d.year === parseInt(year));
+          const eIdx =
+            year === "all"
+              ? this.data.length - 1
+              : this.data.findLastIndex((d) => d.year === parseInt(year));
+          this.chart.dispatchAction({
+            type: "dataZoom",
+            startValue: sIdx,
+            endValue: eIdx,
+          });
+        },
+
+        renderYearBtns() {
+          const years = [...new Set(this.data.map((d) => d.year))].sort();
+          const container = document.getElementById("yearPicker");
+          container.innerHTML = `<button class="btn year-btn active" onclick="app.zoomTo('all', this)">全部</button>`;
+          years.forEach((y) => {
+            container.innerHTML += `<button class="btn year-btn" onclick="app.zoomTo('${y}', this)">${y}</button>`;
+          });
+        },
+
+        bindEvents() {
+          this.chart.on("dataZoom", () => this.updateStats());
+          window.onresize = () => this.chart.resize();
+          const zr = this.chart.getZr();
+          zr.on("mousedown", (e) => {
+            if (e.offsetX > this.chart.getWidth() - 60) {
+              this.state.isDragging = true;
+              this.lastY = e.offsetY;
+            }
+          });
+          zr.on("mousemove", (e) => {
+            if (!this.state.isDragging) return;
+            const axis = this.chart.getModel().getComponent("yAxis", 0).axis;
+            const extent = axis.scale.getExtent();
+            const range = extent[1] - extent[0];
+            const delta = (range / 400) * (e.offsetY - this.lastY);
+            this.state.yRange.min =
+              (this.state.yRange.min || extent[0]) - delta;
+            this.state.yRange.max =
+              (this.state.yRange.max || extent[1]) + delta;
+            this.lastY = e.offsetY;
+            this.chart.setOption({ yAxis: this.state.yRange });
+          });
+          zr.on("mouseup", () => (this.state.isDragging = false));
+          zr.on("dblclick", (e) => {
+            if (e.offsetX > this.chart.getWidth() - 60) {
+              this.state.yRange = { min: null, max: null };
+              this.refresh();
+            }
+          });
+        },
+      };
+
+      // --- 九方图核心逻辑 (新增) ---
+      const gann = {
+        anchor: new Date(2023, 0, 1),
+        updateSize(v) {
+          document.documentElement.style.setProperty("--g-size", v + "px");
+          document.getElementById("gLabel").innerText = v + "px";
+          const t = document.querySelector(".gann-table");
+          if (t)
+            v < 22
+              ? t.classList.add("hide-text")
+              : t.classList.remove("hide-text");
+        },
+        paint() {
+          if (!app.pivots.length) return;
+          // 先清理旧颜色
+          document
+            .querySelectorAll(".g-cell")
+            .forEach(
+              (c) =>
+                (c.className = c.className
+                  .replace(/g-peak|g-valley/g, "")
+                  .trim()),
+            );
+
+          const pMap = {};
+          app.pivots.forEach(
+            (p) => (pMap[app.data[p.index].fullDate] = p.type),
+          );
+
+          document.querySelectorAll(".g-cell").forEach((c) => {
+            const d = c.getAttribute("data-d");
+            if (pMap[d] === "Valley") c.classList.add("g-valley");
+            else if (pMap[d] === "Peak") c.classList.add("g-peak");
+          });
+        },
+        initSpiral() {
+          const S = 28;
+          const m = Array(S)
+            .fill()
+            .map(() => Array(S).fill(0));
+          let x = 13,
+            y = 14,
+            val = 1,
+            step = 1;
+          m[y][x] = val;
+          while (val < S * S) {
+            for (let i = 0; i < step && val < S * S; i++) {
+              x--;
+              if (x >= 0 && x < S) m[y][x] = ++val;
+            }
+            for (let i = 0; i < step && val < S * S; i++) {
+              y--;
+              if (y >= 0 && y < S) m[y][x] = ++val;
+            }
+            step++;
+            for (let i = 0; i < step && val < S * S; i++) {
+              x++;
+              if (x >= 0 && x < S) m[y][x] = ++val;
+            }
+            for (let i = 0; i < step && val < S * S; i++) {
+              y++;
+              if (y >= 0 && y < S) m[y][x] = ++val;
+            }
+            step++;
+          }
+          let h = '<table class="gann-table">';
+          for (let r = 0; r < S; r++) {
+            h += "<tr>";
+            for (let c = 0; c < S; c++) {
+              const v = m[r][c];
+              const d = new Date(this.anchor);
+              d.setDate(d.getDate() + (v - 1));
+              const fStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+              let cls = "g-cell";
+              if (v === 1) cls += " g-center";
+              if (r === c || r + c === S - 1) cls += " g-diag";
+              h += `<td class="${cls}" data-d="${fStr}"><div class="c-box"><span class="c-date">${d.getMonth() + 1}/${d.getDate()}</span><span class="c-num">${v}</span></div></td>`;
+            }
+            h += "</tr>";
+          }
+          document.getElementById("gannDisplay").innerHTML = h + "</table>";
+        },
+      };
+
+      // --- 追加：傅里叶计算逻辑 ---
+      window.runFFT = (pivots) => {
+        if (pivots.length < 6) return;
+        const n = 512;
+        const signal = new Float64Array(n).fill(0);
+        const start = pivots[0].index;
+        pivots.forEach((p, i) => {
+          if (i > 0)
+            signal[Math.min(n - 1, p.index - start)] = Math.abs(
+              p.price - pivots[i - 1].price,
+            );
+        });
+
+        let spectrum = [];
+        for (let k = 2; k < n / 2; k++) {
+          let re = 0,
+            im = 0;
+          for (let t = 0; t < n; t++) {
+            let a = (2 * Math.PI * k * t) / n;
+            re += signal[t] * Math.cos(a);
+            im -= signal[t] * Math.sin(a);
+          }
+          let period = Math.round(n / k);
+          if (period >= 3 && period <= 180)
+            spectrum.push({ period, amp: Math.sqrt(re * re + im * im) });
+        }
+        const tops = spectrum
+          .sort((a, b) => b.amp - a.amp)
+          .filter((v, i, a) => a.findIndex((t) => t.period === v.period) === i)
+          .slice(0, 5);
+        document.getElementById("fftResult").innerHTML = tops
+          .map(
+            (t) =>
+              `<div class="fft-card"><span class="fft-val">${t.period}</span>天<br><small style="color:#888">共振强度</small></div>`,
+          )
+          .join("");
+      };
+
+      app.init();
+    </script>
+  </body>
+</html>

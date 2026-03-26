@@ -1,0 +1,7292 @@
+[
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 03 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3853.29,
+    "high": 3878.46,
+    "low": 3794.33,
+    "close": 3824.14,
+    "volume": "2353396979"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 04 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3840.36,
+    "high": 3873.16,
+    "low": 3815.77,
+    "close": 3852.97,
+    "volume": "2570772991"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 05 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3839.74,
+    "high": 3839.74,
+    "low": 3802.42,
+    "close": 3808.1,
+    "volume": "2259316692"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 06 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3823.37,
+    "high": 3906.19,
+    "low": 3809.56,
+    "close": 3895.08,
+    "volume": "2468430654"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 09 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3910.82,
+    "high": 3950.57,
+    "low": 3890.42,
+    "close": 3892.09,
+    "volume": "2500082779"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 10 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3888.57,
+    "high": 3919.83,
+    "low": 3877.29,
+    "close": 3919.25,
+    "volume": "2141504907"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 11 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3932.35,
+    "high": 3970.07,
+    "low": 3928.54,
+    "close": 3969.61,
+    "volume": "2354204882"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 12 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3977.57,
+    "high": 3997.76,
+    "low": 3937.56,
+    "close": 3983.17,
+    "volume": "2468826678"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 13 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3960.6,
+    "high": 4003.95,
+    "low": 3947.67,
+    "close": 3999.09,
+    "volume": "2305897852"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 17 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3999.28,
+    "high": 4015.39,
+    "low": 3984.57,
+    "close": 3990.97,
+    "volume": "2498747931"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 18 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4002.25,
+    "high": 4014.16,
+    "low": 3926.59,
+    "close": 3928.86,
+    "volume": "2545980650"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 19 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3911.84,
+    "high": 3922.94,
+    "low": 3885.54,
+    "close": 3898.85,
+    "volume": "2465301681"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 20 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3909.04,
+    "high": 3972.96,
+    "low": 3897.86,
+    "close": 3972.61,
+    "volume": "2617398551"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 23 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3978.14,
+    "high": 4039.31,
+    "low": 3971.64,
+    "close": 4019.81,
+    "volume": "2469899901"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 24 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4001.74,
+    "high": 4023.92,
+    "low": 3989.79,
+    "close": 4016.95,
+    "volume": "2091229711"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 25 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3982.71,
+    "high": 4019.55,
+    "low": 3949.06,
+    "close": 4016.22,
+    "volume": "2416051835"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 26 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4036.08,
+    "high": 4061.57,
+    "low": 4013.29,
+    "close": 4060.43,
+    "volume": "2433218693"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 27 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4053.72,
+    "high": 4094.21,
+    "low": 4048.7,
+    "close": 4070.56,
+    "volume": "2572664062"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 30 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4049.27,
+    "high": 4063.85,
+    "low": 4015.55,
+    "close": 4017.77,
+    "volume": "2303537608"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 31 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4020.85,
+    "high": 4077.16,
+    "low": 4020.44,
+    "close": 4076.6,
+    "volume": "2865897027"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 01 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4070.07,
+    "high": 4148.95,
+    "low": 4037.2,
+    "close": 4119.21,
+    "volume": "2939837224"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 02 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4158.68,
+    "high": 4195.44,
+    "low": 4141.88,
+    "close": 4179.76,
+    "volume": "3391309424"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 03 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4136.69,
+    "high": 4182.36,
+    "low": 4123.36,
+    "close": 4136.48,
+    "volume": "2899964493"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 06 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4119.57,
+    "high": 4124.63,
+    "low": 4093.38,
+    "close": 4111.08,
+    "volume": "2284201082"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 07 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4105.35,
+    "high": 4176.54,
+    "low": 4088.39,
+    "close": 4164,
+    "volume": "2612787624"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 08 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4153.47,
+    "high": 4156.85,
+    "low": 4111.67,
+    "close": 4117.86,
+    "volume": "2543426659"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 09 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4144.25,
+    "high": 4156.23,
+    "low": 4069.67,
+    "close": 4081.5,
+    "volume": "2652617337"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 10 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4068.92,
+    "high": 4094.36,
+    "low": 4060.79,
+    "close": 4090.46,
+    "volume": "2312192918"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 13 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4096.62,
+    "high": 4138.9,
+    "low": 4092.67,
+    "close": 4137.29,
+    "volume": "2125959564"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 14 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4126.7,
+    "high": 4159.77,
+    "low": 4095.01,
+    "close": 4136.13,
+    "volume": "2219075513"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 15 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4119.5,
+    "high": 4148.11,
+    "low": 4103.98,
+    "close": 4147.6,
+    "volume": "2112266379"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 16 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4114.75,
+    "high": 4136.54,
+    "low": 4089.49,
+    "close": 4090.41,
+    "volume": "2264834581"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 17 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4077.39,
+    "high": 4081.51,
+    "low": 4047.95,
+    "close": 4079.09,
+    "volume": "2380094371"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 21 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4052.35,
+    "high": 4052.35,
+    "low": 3995.19,
+    "close": 3997.34,
+    "volume": "2347271199"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 22 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4001.83,
+    "high": 4017.37,
+    "low": 3976.9,
+    "close": 3991.05,
+    "volume": "2259720314"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 23 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4018.6,
+    "high": 4028.3,
+    "low": 3969.19,
+    "close": 4012.32,
+    "volume": "2308657962"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 24 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3973.24,
+    "high": 3978.25,
+    "low": 3943.08,
+    "close": 3970.04,
+    "volume": "2180170804"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 27 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3992.36,
+    "high": 4018.05,
+    "low": 3973.55,
+    "close": 3982.24,
+    "volume": "2068606135"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 28 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3977.19,
+    "high": 3997.5,
+    "low": 3968.98,
+    "close": 3970.15,
+    "volume": "2771735399"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 01 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3963.34,
+    "high": 3971.73,
+    "low": 3939.05,
+    "close": 3951.39,
+    "volume": "2225253319"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 02 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3938.68,
+    "high": 3990.84,
+    "low": 3928.16,
+    "close": 3981.35,
+    "volume": "2252262370"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 03 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3998.02,
+    "high": 4048.29,
+    "low": 3995.17,
+    "close": 4045.64,
+    "volume": "2228260881"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 06 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4055.15,
+    "high": 4078.49,
+    "low": 4044.61,
+    "close": 4048.42,
+    "volume": "2183396550"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 07 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4048.26,
+    "high": 4050,
+    "low": 3980.31,
+    "close": 3986.37,
+    "volume": "2261990430"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 08 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3987.55,
+    "high": 4000.41,
+    "low": 3969.76,
+    "close": 3992.01,
+    "volume": "2036782973"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 09 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3998.66,
+    "high": 4017.81,
+    "low": 3908.7,
+    "close": 3918.32,
+    "volume": "2604828562"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 10 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 3912.77,
+    "high": 3934.05,
+    "low": 3846.32,
+    "close": 3861.59,
+    "volume": "3238481766"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 13 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3835.12,
+    "high": 3905.05,
+    "low": 3808.86,
+    "close": 3855.76,
+    "volume": "4001022053"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 14 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3894.01,
+    "high": 3937.29,
+    "low": 3873.63,
+    "close": 3919.29,
+    "volume": "3434915177"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 15 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3876.74,
+    "high": 3894.26,
+    "low": 3838.24,
+    "close": 3891.93,
+    "volume": "3703901268"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 16 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3878.93,
+    "high": 3964.46,
+    "low": 3864.11,
+    "close": 3960.28,
+    "volume": "3623445073"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 17 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3958.69,
+    "high": 3958.91,
+    "low": 3901.27,
+    "close": 3916.64,
+    "volume": "5761269537"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 20 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3917.47,
+    "high": 3956.62,
+    "low": 3916.89,
+    "close": 3951.57,
+    "volume": "2917994859"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 21 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3975.89,
+    "high": 4009.08,
+    "low": 3971.19,
+    "close": 4002.87,
+    "volume": "2947355545"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 22 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4002.04,
+    "high": 4039.49,
+    "low": 3936.17,
+    "close": 3936.97,
+    "volume": "2694608426"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 23 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3959.21,
+    "high": 4007.66,
+    "low": 3919.05,
+    "close": 3948.72,
+    "volume": "2797479137"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 24 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3939.21,
+    "high": 3972.74,
+    "low": 3909.16,
+    "close": 3970.99,
+    "volume": "2584795164"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 27 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3982.93,
+    "high": 4003.83,
+    "low": 3970.49,
+    "close": 3977.53,
+    "volume": "2461561562"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 28 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3974.13,
+    "high": 3979.2,
+    "low": 3951.53,
+    "close": 3971.27,
+    "volume": "1986603707"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 29 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 3999.53,
+    "high": 4030.59,
+    "low": 3999.53,
+    "close": 4027.81,
+    "volume": "2265595656"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 30 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4046.74,
+    "high": 4057.85,
+    "low": 4032.1,
+    "close": 4050.83,
+    "volume": "2133759612"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 31 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4056.18,
+    "high": 4110.75,
+    "low": 4056.18,
+    "close": 4109.31,
+    "volume": "2516723256"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 03 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4102.2,
+    "high": 4127.66,
+    "low": 4098.79,
+    "close": 4124.51,
+    "volume": "2425239188"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 04 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4128.03,
+    "high": 4133.13,
+    "low": 4086.87,
+    "close": 4100.6,
+    "volume": "2264264203"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 05 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4094.5,
+    "high": 4099.69,
+    "low": 4072.56,
+    "close": 4090.38,
+    "volume": "2325149807"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 06 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4081.15,
+    "high": 4107.32,
+    "low": 4069.84,
+    "close": 4105.02,
+    "volume": "2072470322"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 10 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4085.2,
+    "high": 4109.5,
+    "low": 4072.55,
+    "close": 4109.11,
+    "volume": "1948962417"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 11 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4110.29,
+    "high": 4124.26,
+    "low": 4102.61,
+    "close": 4108.94,
+    "volume": "1989408805"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 12 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4121.72,
+    "high": 4134.37,
+    "low": 4086.94,
+    "close": 4091.95,
+    "volume": "2242917713"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 13 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4100.04,
+    "high": 4150.26,
+    "low": 4099.4,
+    "close": 4146.22,
+    "volume": "2196995300"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 14 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4140.11,
+    "high": 4163.19,
+    "low": 4113.2,
+    "close": 4137.64,
+    "volume": "2077040795"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 17 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4137.17,
+    "high": 4151.72,
+    "low": 4123.18,
+    "close": 4151.32,
+    "volume": "2132427049"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 18 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4164.26,
+    "high": 4169.48,
+    "low": 4140.36,
+    "close": 4154.87,
+    "volume": "2124684260"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 19 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4139.33,
+    "high": 4162.57,
+    "low": 4134.49,
+    "close": 4154.52,
+    "volume": "2158289234"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 20 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4130.48,
+    "high": 4148.57,
+    "low": 4114.57,
+    "close": 4129.79,
+    "volume": "2453132513"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 21 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4132.14,
+    "high": 4138.02,
+    "low": 4113.86,
+    "close": 4133.52,
+    "volume": "2304130058"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 24 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4132.07,
+    "high": 4142.41,
+    "low": 4117.77,
+    "close": 4137.04,
+    "volume": "2113777657"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 25 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4126.43,
+    "high": 4126.43,
+    "low": 4071.38,
+    "close": 4071.63,
+    "volume": "2559843604"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 26 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4087.78,
+    "high": 4089.67,
+    "low": 4049.35,
+    "close": 4055.99,
+    "volume": "2698867825"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 27 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4075.29,
+    "high": 4138.24,
+    "low": 4075.29,
+    "close": 4135.35,
+    "volume": "2698412526"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 28 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4129.3,
+    "high": 4170.06,
+    "low": 4127.17,
+    "close": 4169.48,
+    "volume": "2723328076"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 01 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4166.79,
+    "high": 4186.92,
+    "low": 4164.12,
+    "close": 4167.87,
+    "volume": "2244433487"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 02 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4164.1,
+    "high": 4164.1,
+    "low": 4089.72,
+    "close": 4119.58,
+    "volume": "2638399719"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 03 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4122.25,
+    "high": 4148.3,
+    "low": 4088.86,
+    "close": 4090.75,
+    "volume": "2793300701"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 04 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4082.55,
+    "high": 4082.61,
+    "low": 4048.28,
+    "close": 4061.22,
+    "volume": "2876115101"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 05 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4084.73,
+    "high": 4147.02,
+    "low": 4084.73,
+    "close": 4136.25,
+    "volume": "2470165404"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 08 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4136.98,
+    "high": 4142.3,
+    "low": 4123.81,
+    "close": 4138.12,
+    "volume": "2097970022"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 09 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4124.25,
+    "high": 4130.35,
+    "low": 4116.65,
+    "close": 4119.17,
+    "volume": "2063699116"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 10 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4143.74,
+    "high": 4154.28,
+    "low": 4098.92,
+    "close": 4137.64,
+    "volume": "2344517718"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 11 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4132.24,
+    "high": 4132.8,
+    "low": 4109.29,
+    "close": 4130.62,
+    "volume": "2245622679"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 12 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4138.54,
+    "high": 4143.74,
+    "low": 4099.12,
+    "close": 4124.08,
+    "volume": "2076596316"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 15 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4126.65,
+    "high": 4141.25,
+    "low": 4110.27,
+    "close": 4136.28,
+    "volume": "2052455077"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 16 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4127.95,
+    "high": 4135.54,
+    "low": 4109.86,
+    "close": 4109.9,
+    "volume": "2176451205"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 17 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4122.85,
+    "high": 4164.67,
+    "low": 4113.62,
+    "close": 4158.77,
+    "volume": "2440897931"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 18 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4157.68,
+    "high": 4202.2,
+    "low": 4153.5,
+    "close": 4198.05,
+    "volume": "2409183557"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 19 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4204.15,
+    "high": 4212.91,
+    "low": 4180.2,
+    "close": 4191.98,
+    "volume": "2352764320"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 22 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4190.78,
+    "high": 4209.22,
+    "low": 4179.68,
+    "close": 4192.63,
+    "volume": "2217613961"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 23 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4176.8,
+    "high": 4185.68,
+    "low": 4142.54,
+    "close": 4145.58,
+    "volume": "2437622999"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 24 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4132.96,
+    "high": 4132.96,
+    "low": 4103.98,
+    "close": 4115.24,
+    "volume": "2275689933"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 25 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4155.71,
+    "high": 4165.74,
+    "low": 4129.73,
+    "close": 4151.28,
+    "volume": "2825869882"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 26 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4156.16,
+    "high": 4212.87,
+    "low": 4156.16,
+    "close": 4205.45,
+    "volume": "2591763936"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 30 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4226.71,
+    "high": 4231.1,
+    "low": 4192.18,
+    "close": 4205.52,
+    "volume": "2562757079"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 31 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4190.74,
+    "high": 4195.44,
+    "low": 4166.15,
+    "close": 4179.83,
+    "volume": "4400897953"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 01 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4183.03,
+    "high": 4232.43,
+    "low": 4171.64,
+    "close": 4221.02,
+    "volume": "2581648680"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 02 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4241.01,
+    "high": 4290.67,
+    "low": 4241.01,
+    "close": 4282.37,
+    "volume": "2730479867"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 05 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4282.99,
+    "high": 4299.28,
+    "low": 4266.82,
+    "close": 4273.79,
+    "volume": "2227755441"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 06 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4271.34,
+    "high": 4288.33,
+    "low": 4263.09,
+    "close": 4283.85,
+    "volume": "2246726404"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 07 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4285.47,
+    "high": 4299.19,
+    "low": 4263.96,
+    "close": 4267.52,
+    "volume": "2726818936"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 08 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4268.69,
+    "high": 4298.01,
+    "low": 4261.07,
+    "close": 4293.93,
+    "volume": "2224429186"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 09 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4304.88,
+    "high": 4322.62,
+    "low": 4291.7,
+    "close": 4298.86,
+    "volume": "2141505268"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 12 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4308.32,
+    "high": 4340.13,
+    "low": 4304.37,
+    "close": 4338.93,
+    "volume": "2457045650"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 13 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4352.61,
+    "high": 4375.37,
+    "low": 4349.31,
+    "close": 4369.01,
+    "volume": "2547779855"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 14 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4366.29,
+    "high": 4391.82,
+    "low": 4337.85,
+    "close": 4372.59,
+    "volume": "2641024713"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 15 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4365.33,
+    "high": 4439.2,
+    "low": 4362.6,
+    "close": 4425.84,
+    "volume": "2569292175"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 16 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4440.95,
+    "high": 4448.47,
+    "low": 4407.44,
+    "close": 4409.59,
+    "volume": "4195443308"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 20 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4396.11,
+    "high": 4400.15,
+    "low": 4367.19,
+    "close": 4388.71,
+    "volume": "2431767578"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 21 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4380.01,
+    "high": 4386.22,
+    "low": 4360.14,
+    "close": 4365.69,
+    "volume": "2324030886"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 22 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4355.4,
+    "high": 4382.25,
+    "low": 4351.82,
+    "close": 4381.89,
+    "volume": "2091147063"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 23 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4354.17,
+    "high": 4366.55,
+    "low": 4341.34,
+    "close": 4348.33,
+    "volume": "3056621301"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 26 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4344.84,
+    "high": 4362.06,
+    "low": 4328.08,
+    "close": 4328.82,
+    "volume": "2248760425"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 27 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4337.36,
+    "high": 4384.42,
+    "low": 4335,
+    "close": 4378.41,
+    "volume": "2286873269"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 28 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4367.48,
+    "high": 4390.35,
+    "low": 4360.22,
+    "close": 4376.86,
+    "volume": "2276949818"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 29 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4374.94,
+    "high": 4398.39,
+    "low": 4371.97,
+    "close": 4396.44,
+    "volume": "2152193154"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 30 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4422.44,
+    "high": 4458.48,
+    "low": 4422.44,
+    "close": 4450.38,
+    "volume": "2489651506"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 03 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4450.48,
+    "high": 4456.46,
+    "low": 4442.29,
+    "close": 4455.59,
+    "volume": "1243004399"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 05 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4442.04,
+    "high": 4454.06,
+    "low": 4436.61,
+    "close": 4446.82,
+    "volume": "2152798808"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 06 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4422.62,
+    "high": 4422.62,
+    "low": 4385.05,
+    "close": 4411.59,
+    "volume": "2226039196"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 07 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4404.54,
+    "high": 4440.39,
+    "low": 4397.4,
+    "close": 4398.95,
+    "volume": "2113381973"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 10 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4394.23,
+    "high": 4412.6,
+    "low": 4389.92,
+    "close": 4409.53,
+    "volume": "2171846554"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 11 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4415.55,
+    "high": 4443.64,
+    "low": 4408.46,
+    "close": 4439.26,
+    "volume": "2131114902"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 12 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4467.69,
+    "high": 4488.34,
+    "low": 4463.23,
+    "close": 4472.16,
+    "volume": "2323660864"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 13 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4491.5,
+    "high": 4517.38,
+    "low": 4489.36,
+    "close": 4510.04,
+    "volume": "2254612299"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 14 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4514.61,
+    "high": 4527.76,
+    "low": 4499.56,
+    "close": 4505.42,
+    "volume": "2371250817"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 17 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4508.86,
+    "high": 4532.85,
+    "low": 4504.9,
+    "close": 4522.79,
+    "volume": "2357507633"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 18 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4521.78,
+    "high": 4562.3,
+    "low": 4514.59,
+    "close": 4554.98,
+    "volume": "2538286894"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 19 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4563.87,
+    "high": 4578.43,
+    "low": 4557.48,
+    "close": 4565.72,
+    "volume": "2585040201"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 20 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4554.38,
+    "high": 4564.74,
+    "low": 4527.56,
+    "close": 4534.87,
+    "volume": "2593544503"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 21 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4550.16,
+    "high": 4555,
+    "low": 4535.79,
+    "close": 4536.34,
+    "volume": "3275429686"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 24 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4543.39,
+    "high": 4563.41,
+    "low": 4541.29,
+    "close": 4554.64,
+    "volume": "2136206636"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 25 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4555.19,
+    "high": 4580.62,
+    "low": 4552.42,
+    "close": 4567.46,
+    "volume": "2305490101"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 26 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4558.96,
+    "high": 4582.47,
+    "low": 4547.58,
+    "close": 4566.75,
+    "volume": "2312272045"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 27 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4598.26,
+    "high": 4607.07,
+    "low": 4528.56,
+    "close": 4537.41,
+    "volume": "2666286293"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 28 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4565.75,
+    "high": 4590.16,
+    "low": 4564.01,
+    "close": 4582.23,
+    "volume": "2359801217"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 31 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4584.82,
+    "high": 4594.22,
+    "low": 4573.14,
+    "close": 4588.96,
+    "volume": "2411537985"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 01 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4578.83,
+    "high": 4584.62,
+    "low": 4567.53,
+    "close": 4576.73,
+    "volume": "2172699881"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 02 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4550.93,
+    "high": 4550.93,
+    "low": 4505.75,
+    "close": 4513.39,
+    "volume": "2466207896"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 03 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4494.27,
+    "high": 4519.49,
+    "low": 4485.54,
+    "close": 4501.89,
+    "volume": "2351421483"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 04 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4513.96,
+    "high": 4540.34,
+    "low": 4474.55,
+    "close": 4478.03,
+    "volume": "2386696495"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 07 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4491.58,
+    "high": 4519.84,
+    "low": 4491.15,
+    "close": 4518.44,
+    "volume": "2055431221"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 08 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4498.03,
+    "high": 4503.31,
+    "low": 4464.39,
+    "close": 4499.38,
+    "volume": "2172253124"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 09 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4501.57,
+    "high": 4502.44,
+    "low": 4461.33,
+    "close": 4467.71,
+    "volume": "2046722089"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 10 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4487.16,
+    "high": 4527.37,
+    "low": 4457.92,
+    "close": 4468.83,
+    "volume": "2111185396"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 11 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4450.69,
+    "high": 4476.23,
+    "low": 4443.98,
+    "close": 4464.05,
+    "volume": "1850766477"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 14 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4458.13,
+    "high": 4490.33,
+    "low": 4453.44,
+    "close": 4489.72,
+    "volume": "1955913253"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 15 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4478.87,
+    "high": 4478.87,
+    "low": 4432.19,
+    "close": 4437.86,
+    "volume": "1977157506"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 16 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4433.79,
+    "high": 4449.95,
+    "low": 4403.55,
+    "close": 4404.33,
+    "volume": "2001143711"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 17 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4416.32,
+    "high": 4421.17,
+    "low": 4364.83,
+    "close": 4370.36,
+    "volume": "2216839469"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 18 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4344.88,
+    "high": 4381.82,
+    "low": 4335.31,
+    "close": 4369.71,
+    "volume": "2157858548"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 21 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4380.28,
+    "high": 4407.55,
+    "low": 4360.3,
+    "close": 4399.77,
+    "volume": "2057592847"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 22 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4415.33,
+    "high": 4418.59,
+    "low": 4382.77,
+    "close": 4387.55,
+    "volume": "1905849406"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 23 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4396.44,
+    "high": 4443.18,
+    "low": 4396.44,
+    "close": 4436.01,
+    "volume": "2013748142"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 24 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4455.16,
+    "high": 4458.3,
+    "low": 4375.55,
+    "close": 4376.31,
+    "volume": "2077193771"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 25 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4389.38,
+    "high": 4418.46,
+    "low": 4356.29,
+    "close": 4405.71,
+    "volume": "1976128172"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 28 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4426.03,
+    "high": 4439.56,
+    "low": 4414.98,
+    "close": 4433.31,
+    "volume": "1669881577"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 29 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4432.75,
+    "high": 4500.14,
+    "low": 4431.68,
+    "close": 4497.63,
+    "volume": "1936663046"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 30 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4500.34,
+    "high": 4521.65,
+    "low": 4493.59,
+    "close": 4514.87,
+    "volume": "1827645178"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 31 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4517.01,
+    "high": 4532.26,
+    "low": 4507.39,
+    "close": 4507.66,
+    "volume": "2352361081"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 01 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4530.6,
+    "high": 4541.25,
+    "low": 4501.35,
+    "close": 4515.77,
+    "volume": "1958155311"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 05 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4510.06,
+    "high": 4514.29,
+    "low": 4496.01,
+    "close": 4496.83,
+    "volume": "2128341430"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 06 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4490.35,
+    "high": 4490.35,
+    "low": 4442.38,
+    "close": 4465.48,
+    "volume": "2138052710"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 07 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4434.55,
+    "high": 4457.81,
+    "low": 4430.46,
+    "close": 4451.14,
+    "volume": "2441134922"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 08 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4451.3,
+    "high": 4473.53,
+    "low": 4448.38,
+    "close": 4457.49,
+    "volume": "2076441612"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 11 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4480.98,
+    "high": 4490.77,
+    "low": 4467.89,
+    "close": 4487.46,
+    "volume": "2165432434"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 12 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4473.27,
+    "high": 4487.11,
+    "low": 4456.83,
+    "close": 4461.9,
+    "volume": "2184137855"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 13 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4462.65,
+    "high": 4479.39,
+    "low": 4453.52,
+    "close": 4467.44,
+    "volume": "2268926200"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 14 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4487.78,
+    "high": 4511.99,
+    "low": 4478.69,
+    "close": 4505.1,
+    "volume": "2275484003"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 15 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4497.98,
+    "high": 4497.98,
+    "low": 4447.21,
+    "close": 4450.32,
+    "volume": "4244973105"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 18 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4445.13,
+    "high": 4466.36,
+    "low": 4442.11,
+    "close": 4453.53,
+    "volume": "1932361461"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 19 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4445.41,
+    "high": 4449.85,
+    "low": 4416.61,
+    "close": 4443.95,
+    "volume": "2018270144"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 20 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4452.81,
+    "high": 4461.03,
+    "low": 4401.38,
+    "close": 4402.2,
+    "volume": "1976745837"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 21 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4374.36,
+    "high": 4375.7,
+    "low": 4329.17,
+    "close": 4330,
+    "volume": "2298552282"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 22 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4341.74,
+    "high": 4357.4,
+    "low": 4316.49,
+    "close": 4320.06,
+    "volume": "2135953365"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 25 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4310.62,
+    "high": 4338.51,
+    "low": 4302.7,
+    "close": 4337.44,
+    "volume": "1858119044"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 26 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4312.88,
+    "high": 4313.01,
+    "low": 4265.98,
+    "close": 4273.53,
+    "volume": "2129442202"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 27 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4282.63,
+    "high": 4292.07,
+    "low": 4238.63,
+    "close": 4274.51,
+    "volume": "2299297267"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 28 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4269.65,
+    "high": 4317.27,
+    "low": 4264.38,
+    "close": 4299.7,
+    "volume": "2235764324"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 29 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4328.18,
+    "high": 4333.15,
+    "low": 4274.86,
+    "close": 4288.05,
+    "volume": "2411036284"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 02 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4284.52,
+    "high": 4300.58,
+    "low": 4260.21,
+    "close": 4288.39,
+    "volume": "2419266832"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 03 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4269.75,
+    "high": 4281.15,
+    "low": 4216.45,
+    "close": 4229.45,
+    "volume": "2430973527"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 04 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4233.83,
+    "high": 4268.5,
+    "low": 4220.48,
+    "close": 4263.75,
+    "volume": "2329779403"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 05 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4259.31,
+    "high": 4267.13,
+    "low": 4225.91,
+    "close": 4258.19,
+    "volume": "2230253462"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 06 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4234.79,
+    "high": 4324.1,
+    "low": 4219.55,
+    "close": 4308.5,
+    "volume": "2493423103"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 09 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4289.02,
+    "high": 4341.73,
+    "low": 4283.79,
+    "close": 4335.66,
+    "volume": "1991524626"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 10 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4339.75,
+    "high": 4385.46,
+    "low": 4339.64,
+    "close": 4358.24,
+    "volume": "2160880932"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 11 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4366.59,
+    "high": 4378.64,
+    "low": 4345.34,
+    "close": 4376.95,
+    "volume": "2115648071"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 12 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4380.94,
+    "high": 4385.85,
+    "low": 4325.43,
+    "close": 4349.61,
+    "volume": "2344769422"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 13 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4360.49,
+    "high": 4377.1,
+    "low": 4311.97,
+    "close": 4327.78,
+    "volume": "2302663368"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 16 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4342.37,
+    "high": 4383.33,
+    "low": 4342.37,
+    "close": 4373.63,
+    "volume": "2124400350"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 17 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4345.23,
+    "high": 4393.57,
+    "low": 4337.54,
+    "close": 4373.2,
+    "volume": "2355659575"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 18 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4357.35,
+    "high": 4364.2,
+    "low": 4303.84,
+    "close": 4314.6,
+    "volume": "2390659124"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 19 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4321.36,
+    "high": 4339.54,
+    "low": 4269.69,
+    "close": 4278,
+    "volume": "2635705086"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 20 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4273.85,
+    "high": 4276.56,
+    "low": 4223.03,
+    "close": 4224.16,
+    "volume": "2734219191"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 23 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4210.4,
+    "high": 4255.84,
+    "low": 4189.22,
+    "close": 4217.04,
+    "volume": "2454581997"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 24 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4235.79,
+    "high": 4259.38,
+    "low": 4219.43,
+    "close": 4247.68,
+    "volume": "2472963274"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 25 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4232.42,
+    "high": 4232.42,
+    "low": 4181.42,
+    "close": 4186.77,
+    "volume": "2665565303"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 26 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4175.99,
+    "high": 4183.6,
+    "low": 4127.9,
+    "close": 4137.23,
+    "volume": "2959734415"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 27 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4152.93,
+    "high": 4156.7,
+    "low": 4103.78,
+    "close": 4117.37,
+    "volume": "2784710672"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 30 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4139.39,
+    "high": 4177.47,
+    "low": 4132.94,
+    "close": 4166.82,
+    "volume": "2600517109"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 31 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4171.33,
+    "high": 4195.55,
+    "low": 4153.12,
+    "close": 4193.8,
+    "volume": "2701786725"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 01 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4201.27,
+    "high": 4245.64,
+    "low": 4197.74,
+    "close": 4237.86,
+    "volume": "2804876425"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 02 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4268.26,
+    "high": 4319.72,
+    "low": 4268.26,
+    "close": 4317.78,
+    "volume": "2808160224"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 03 2023 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4334.23,
+    "high": 4373.62,
+    "low": 4334.23,
+    "close": 4358.34,
+    "volume": "2683282215"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 06 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4364.27,
+    "high": 4372.21,
+    "low": 4347.53,
+    "close": 4365.98,
+    "volume": "2177065334"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 07 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4366.21,
+    "high": 4386.26,
+    "low": 4355.41,
+    "close": 4378.38,
+    "volume": "2273382086"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 08 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4384.37,
+    "high": 4391.2,
+    "low": 4359.76,
+    "close": 4382.78,
+    "volume": "2285134021"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 09 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4391.41,
+    "high": 4393.4,
+    "low": 4343.94,
+    "close": 4347.35,
+    "volume": "2361060379"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 10 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4364.15,
+    "high": 4418.03,
+    "low": 4353.34,
+    "close": 4415.24,
+    "volume": "2231546561"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 13 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4406.66,
+    "high": 4421.76,
+    "low": 4393.82,
+    "close": 4411.55,
+    "volume": "1991619458"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 14 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4458.97,
+    "high": 4508.67,
+    "low": 4458.97,
+    "close": 4495.7,
+    "volume": "2672131739"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 15 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4505.3,
+    "high": 4521.17,
+    "low": 4495.31,
+    "close": 4502.88,
+    "volume": "2555968121"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 16 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4497.08,
+    "high": 4511.99,
+    "low": 4487.83,
+    "close": 4508.24,
+    "volume": "2502113762"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 17 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4509.55,
+    "high": 4520.12,
+    "low": 4499.66,
+    "close": 4514.02,
+    "volume": "2273204200"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 20 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4511.7,
+    "high": 4557.11,
+    "low": 4510.36,
+    "close": 4547.38,
+    "volume": "2183094585"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 21 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4538.77,
+    "high": 4542.14,
+    "low": 4525.51,
+    "close": 4538.19,
+    "volume": "2059443812"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 22 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4553.04,
+    "high": 4568.43,
+    "low": 4545.05,
+    "close": 4556.62,
+    "volume": "1886910426"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 24 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4555.84,
+    "high": 4560.31,
+    "low": 4552.8,
+    "close": 4559.34,
+    "volume": "883871606"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 27 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4554.86,
+    "high": 4560.52,
+    "low": 4546.32,
+    "close": 4550.43,
+    "volume": "2000833401"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 28 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4545.55,
+    "high": 4568.14,
+    "low": 4540.51,
+    "close": 4554.89,
+    "volume": "2097872795"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 29 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4571.84,
+    "high": 4587.64,
+    "low": 4547.15,
+    "close": 4550.58,
+    "volume": "2423616420"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 30 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4554.87,
+    "high": 4569.89,
+    "low": 4537.24,
+    "close": 4567.8,
+    "volume": "3541778970"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 01 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4559.43,
+    "high": 4599.39,
+    "low": 4554.71,
+    "close": 4594.63,
+    "volume": "2505721705"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 04 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4564.37,
+    "high": 4572.37,
+    "low": 4546.72,
+    "close": 4569.78,
+    "volume": "2465568577"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 05 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4557.25,
+    "high": 4578.56,
+    "low": 4551.68,
+    "close": 4567.18,
+    "volume": "2322321833"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 06 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4586.23,
+    "high": 4590.74,
+    "low": 4546.5,
+    "close": 4549.34,
+    "volume": "2383220473"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 07 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4568.84,
+    "high": 4590.92,
+    "low": 4565.22,
+    "close": 4585.59,
+    "volume": "2457048305"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 08 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4576.2,
+    "high": 4609.23,
+    "low": 4574.06,
+    "close": 4604.37,
+    "volume": "2307905221"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 11 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4593.39,
+    "high": 4623.71,
+    "low": 4593.39,
+    "close": 4622.44,
+    "volume": "2421573608"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 12 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4618.3,
+    "high": 4643.93,
+    "low": 4608.09,
+    "close": 4643.7,
+    "volume": "2348740164"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 13 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4646.2,
+    "high": 4709.69,
+    "low": 4643.23,
+    "close": 4707.09,
+    "volume": "2968692293"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 14 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4721.04,
+    "high": 4738.57,
+    "low": 4694.34,
+    "close": 4719.55,
+    "volume": "3861364751"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 15 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4714.23,
+    "high": 4725.53,
+    "low": 4704.69,
+    "close": 4719.19,
+    "volume": "5291443423"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 18 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4725.58,
+    "high": 4749.52,
+    "low": 4725.58,
+    "close": 4740.56,
+    "volume": "2431569697"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 19 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4743.72,
+    "high": 4768.69,
+    "low": 4743.72,
+    "close": 4768.37,
+    "volume": "2343967459"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 20 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4764.73,
+    "high": 4778.01,
+    "low": 4697.82,
+    "close": 4698.35,
+    "volume": "2481584831"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 21 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4724.29,
+    "high": 4748.71,
+    "low": 4708.35,
+    "close": 4746.75,
+    "volume": "2161613127"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 22 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4753.92,
+    "high": 4772.94,
+    "low": 4736.77,
+    "close": 4754.63,
+    "volume": "1751108227"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 26 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4758.86,
+    "high": 4784.72,
+    "low": 4758.45,
+    "close": 4774.75,
+    "volume": "1446123076"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 27 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4773.45,
+    "high": 4785.39,
+    "low": 4768.9,
+    "close": 4781.58,
+    "volume": "1613387599"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 28 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4786.44,
+    "high": 4793.3,
+    "low": 4780.98,
+    "close": 4783.35,
+    "volume": "1484576350"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 29 2023 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4782.88,
+    "high": 4788.43,
+    "low": 4751.99,
+    "close": 4769.83,
+    "volume": "1744617290"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 02 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4745.2,
+    "high": 4754.33,
+    "low": 4722.67,
+    "close": 4742.83,
+    "volume": "2436433260"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 03 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4725.07,
+    "high": 4729.29,
+    "low": 4699.71,
+    "close": 4704.81,
+    "volume": "2462780864"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 04 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4697.42,
+    "high": 4726.78,
+    "low": 4687.53,
+    "close": 4688.68,
+    "volume": "2367124529"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 05 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4690.57,
+    "high": 4721.49,
+    "low": 4682.11,
+    "close": 4697.24,
+    "volume": "2204799754"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 08 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4703.7,
+    "high": 4764.54,
+    "low": 4699.82,
+    "close": 4763.54,
+    "volume": "2298967638"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 09 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4741.93,
+    "high": 4765.47,
+    "low": 4730.35,
+    "close": 4756.5,
+    "volume": "2236452784"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 10 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4759.94,
+    "high": 4790.8,
+    "low": 4756.2,
+    "close": 4783.45,
+    "volume": "2160956464"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 11 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4792.13,
+    "high": 4798.5,
+    "low": 4739.58,
+    "close": 4780.24,
+    "volume": "2320939953"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 12 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4791.18,
+    "high": 4802.4,
+    "low": 4768.98,
+    "close": 4783.83,
+    "volume": "2236217742"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 16 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4772.35,
+    "high": 4782.34,
+    "low": 4747.12,
+    "close": 4765.98,
+    "volume": "2600196183"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 17 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4739.13,
+    "high": 4744.23,
+    "low": 4714.82,
+    "close": 4739.21,
+    "volume": "2320340664"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 18 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4760.1,
+    "high": 4785.79,
+    "low": 4740.57,
+    "close": 4780.94,
+    "volume": "2591426040"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 19 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4796.28,
+    "high": 4842.07,
+    "low": 4785.87,
+    "close": 4839.81,
+    "volume": "2758405262"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 22 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4853.42,
+    "high": 4868.41,
+    "low": 4844.05,
+    "close": 4850.43,
+    "volume": "2633780446"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 23 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4856.8,
+    "high": 4866.48,
+    "low": 4844.37,
+    "close": 4864.6,
+    "volume": "2388786865"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 24 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4888.56,
+    "high": 4903.68,
+    "low": 4865.94,
+    "close": 4868.55,
+    "volume": "2675171919"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 25 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4886.66,
+    "high": 4898.15,
+    "low": 4869.34,
+    "close": 4894.16,
+    "volume": "2903392182"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 26 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4888.91,
+    "high": 4906.69,
+    "low": 4881.47,
+    "close": 4890.97,
+    "volume": "2388032275"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 29 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4892.95,
+    "high": 4929.31,
+    "low": 4887.4,
+    "close": 4927.93,
+    "volume": "2312494392"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 30 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4925.89,
+    "high": 4931.09,
+    "low": 4916.27,
+    "close": 4924.97,
+    "volume": "2579106428"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 31 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4899.19,
+    "high": 4906.75,
+    "low": 4845.15,
+    "close": 4845.65,
+    "volume": "3297263902"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 01 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4861.11,
+    "high": 4906.97,
+    "low": 4853.52,
+    "close": 4906.19,
+    "volume": "2808069454"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 02 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4916.06,
+    "high": 4975.29,
+    "low": 4907.99,
+    "close": 4958.61,
+    "volume": "2791773912"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 05 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4957.19,
+    "high": 4957.19,
+    "low": 4918.09,
+    "close": 4942.81,
+    "volume": "2584805952"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 06 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4950.16,
+    "high": 4957.77,
+    "low": 4934.88,
+    "close": 4954.23,
+    "volume": "2477503347"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 07 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4973.05,
+    "high": 4999.89,
+    "low": 4969.05,
+    "close": 4995.06,
+    "volume": "2591206982"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 08 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4995.16,
+    "high": 5000.4,
+    "low": 4987.09,
+    "close": 4997.91,
+    "volume": "2436611938"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 09 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5004.17,
+    "high": 5030.06,
+    "low": 5000.34,
+    "close": 5026.61,
+    "volume": "2305688993"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 12 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5026.83,
+    "high": 5048.39,
+    "low": 5016.83,
+    "close": 5021.84,
+    "volume": "2230537686"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 13 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4967.94,
+    "high": 4971.3,
+    "low": 4920.31,
+    "close": 4953.17,
+    "volume": "2581714918"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 14 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4976.44,
+    "high": 5002.52,
+    "low": 4956.45,
+    "close": 5000.62,
+    "volume": "2325126439"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 15 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5003.14,
+    "high": 5032.72,
+    "low": 4999.44,
+    "close": 5029.73,
+    "volume": "2424880973"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 16 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5031.13,
+    "high": 5038.7,
+    "low": 4999.52,
+    "close": 5005.57,
+    "volume": "2298707861"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 20 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4989.32,
+    "high": 4993.71,
+    "low": 4955.02,
+    "close": 4975.51,
+    "volume": "2454586525"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 21 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 4963.03,
+    "high": 4983.21,
+    "low": 4946,
+    "close": 4981.8,
+    "volume": "2254957644"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 22 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5038.83,
+    "high": 5094.39,
+    "low": 5038.83,
+    "close": 5087.03,
+    "volume": "2575496447"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 23 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5100.92,
+    "high": 5111.06,
+    "low": 5081.46,
+    "close": 5088.8,
+    "volume": "2256863196"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 26 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5093,
+    "high": 5097.66,
+    "low": 5068.91,
+    "close": 5069.53,
+    "volume": "2248390032"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 27 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5074.6,
+    "high": 5080.69,
+    "low": 5057.29,
+    "close": 5078.18,
+    "volume": "2149213570"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 28 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5067.2,
+    "high": 5077.37,
+    "low": 5058.35,
+    "close": 5069.76,
+    "volume": "2079030384"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 29 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5085.36,
+    "high": 5104.99,
+    "low": 5061.89,
+    "close": 5096.27,
+    "volume": "3310290023"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 01 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5098.51,
+    "high": 5140.33,
+    "low": 5094.16,
+    "close": 5137.08,
+    "volume": "2453221439"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 04 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5130.99,
+    "high": 5149.67,
+    "low": 5127.18,
+    "close": 5130.95,
+    "volume": "2818870452"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 05 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5110.52,
+    "high": 5114.54,
+    "low": 5056.82,
+    "close": 5078.65,
+    "volume": "2704129642"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 06 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5108.03,
+    "high": 5127.97,
+    "low": 5092.22,
+    "close": 5104.76,
+    "volume": "2604927497"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 07 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5132.38,
+    "high": 5165.62,
+    "low": 5128.21,
+    "close": 5157.36,
+    "volume": "2359269056"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 08 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5164.46,
+    "high": 5189.26,
+    "low": 5117.5,
+    "close": 5123.69,
+    "volume": "2430070760"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 11 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5111.96,
+    "high": 5124.66,
+    "low": 5091.14,
+    "close": 5117.94,
+    "volume": "2207490802"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 12 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5134.3,
+    "high": 5179.87,
+    "low": 5114.48,
+    "close": 5175.27,
+    "volume": "2294319101"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 13 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5173.49,
+    "high": 5179.14,
+    "low": 5151.88,
+    "close": 5165.31,
+    "volume": "2415913063"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 14 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5175.14,
+    "high": 5176.85,
+    "low": 5123.3,
+    "close": 5150.48,
+    "volume": "2653395897"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 15 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5123.31,
+    "high": 5136.86,
+    "low": 5104.35,
+    "close": 5117.09,
+    "volume": "5156067746"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 18 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5154.77,
+    "high": 5175.6,
+    "low": 5145.47,
+    "close": 5149.42,
+    "volume": "2395481603"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 19 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5139.09,
+    "high": 5180.31,
+    "low": 5131.59,
+    "close": 5178.51,
+    "volume": "2206625058"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 20 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5181.69,
+    "high": 5226.19,
+    "low": 5171.55,
+    "close": 5224.62,
+    "volume": "2293911189"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 21 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5253.43,
+    "high": 5261.1,
+    "low": 5240.66,
+    "close": 5241.53,
+    "volume": "2513703086"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 22 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5242.48,
+    "high": 5246.09,
+    "low": 5229.87,
+    "close": 5234.18,
+    "volume": "2009116285"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 25 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5219.52,
+    "high": 5229.09,
+    "low": 5216.09,
+    "close": 5218.19,
+    "volume": "2083558443"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 26 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5228.85,
+    "high": 5235.16,
+    "low": 5203.42,
+    "close": 5203.58,
+    "volume": "2254197442"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 27 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5226.31,
+    "high": 5249.26,
+    "low": 5213.92,
+    "close": 5248.49,
+    "volume": "2275362496"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 28 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5248.03,
+    "high": 5264.85,
+    "low": 5245.82,
+    "close": 5254.35,
+    "volume": "2400060516"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 01 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5257.97,
+    "high": 5263.95,
+    "low": 5229.2,
+    "close": 5243.77,
+    "volume": "1992072382"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 02 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5204.29,
+    "high": 5208.34,
+    "low": 5184.05,
+    "close": 5205.81,
+    "volume": "2404999435"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 03 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5194.37,
+    "high": 5228.75,
+    "low": 5194.37,
+    "close": 5211.49,
+    "volume": "2291919524"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 04 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5244.05,
+    "high": 5256.59,
+    "low": 5146.06,
+    "close": 5147.21,
+    "volume": "2533977104"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 05 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5158.95,
+    "high": 5222.18,
+    "low": 5157.21,
+    "close": 5204.34,
+    "volume": "2201731585"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 08 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5211.37,
+    "high": 5219.57,
+    "low": 5197.35,
+    "close": 5202.39,
+    "volume": "2006989877"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 09 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5217.03,
+    "high": 5224.81,
+    "low": 5160.78,
+    "close": 5209.91,
+    "volume": "2025386254"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 10 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5167.88,
+    "high": 5178.43,
+    "low": 5138.7,
+    "close": 5160.64,
+    "volume": "2288234836"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 11 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5172.95,
+    "high": 5211.78,
+    "low": 5138.77,
+    "close": 5199.06,
+    "volume": "2204862038"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 12 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5171.51,
+    "high": 5175.03,
+    "low": 5107.94,
+    "close": 5123.41,
+    "volume": "2409339978"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 15 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5149.67,
+    "high": 5168.43,
+    "low": 5052.47,
+    "close": 5061.82,
+    "volume": "2305701976"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 16 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5064.59,
+    "high": 5079.84,
+    "low": 5039.83,
+    "close": 5051.41,
+    "volume": "2334071918"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 17 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5068.97,
+    "high": 5077.96,
+    "low": 5007.25,
+    "close": 5022.21,
+    "volume": "2289242657"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 18 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5031.52,
+    "high": 5056.66,
+    "low": 5001.89,
+    "close": 5011.12,
+    "volume": "2206949033"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 19 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5005.44,
+    "high": 5019.02,
+    "low": 4953.56,
+    "close": 4967.23,
+    "volume": "2733302804"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 22 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4987.33,
+    "high": 5038.84,
+    "low": 4969.4,
+    "close": 5010.6,
+    "volume": "2348891195"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 23 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5028.85,
+    "high": 5076.12,
+    "low": 5027.96,
+    "close": 5070.55,
+    "volume": "2311653512"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 24 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5084.86,
+    "high": 5089.48,
+    "low": 5047.02,
+    "close": 5071.63,
+    "volume": "2523336454"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 25 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5019.88,
+    "high": 5057.75,
+    "low": 4990.58,
+    "close": 5048.42,
+    "volume": "2691433796"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 26 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5084.65,
+    "high": 5114.62,
+    "low": 5073.14,
+    "close": 5099.96,
+    "volume": "2401044210"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 29 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5114.13,
+    "high": 5123.49,
+    "low": 5088.65,
+    "close": 5116.17,
+    "volume": "2337162842"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 30 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5103.78,
+    "high": 5110.83,
+    "low": 5035.31,
+    "close": 5035.69,
+    "volume": "2776658379"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 01 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5029.03,
+    "high": 5096.12,
+    "low": 5013.45,
+    "close": 5018.39,
+    "volume": "2863485285"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 02 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5049.32,
+    "high": 5073.21,
+    "low": 5011.05,
+    "close": 5064.2,
+    "volume": "2622597256"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 03 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5122.78,
+    "high": 5139.12,
+    "low": 5101.22,
+    "close": 5127.79,
+    "volume": "2441285064"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 06 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5142.42,
+    "high": 5181,
+    "low": 5142.42,
+    "close": 5180.74,
+    "volume": "2174332915"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 07 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5187.2,
+    "high": 5200.23,
+    "low": 5178.96,
+    "close": 5187.7,
+    "volume": "2275796703"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 08 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5168.98,
+    "high": 5191.95,
+    "low": 5165.86,
+    "close": 5187.67,
+    "volume": "2091022880"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 09 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5189.03,
+    "high": 5215.3,
+    "low": 5180.41,
+    "close": 5214.08,
+    "volume": "1972154705"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 10 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5225.49,
+    "high": 5239.66,
+    "low": 5209.68,
+    "close": 5222.68,
+    "volume": "1883332754"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 13 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5233.08,
+    "high": 5237.26,
+    "low": 5211.16,
+    "close": 5221.42,
+    "volume": "1947454376"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 14 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5221.1,
+    "high": 5250.37,
+    "low": 5217.98,
+    "close": 5246.68,
+    "volume": "2029372117"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 15 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5263.26,
+    "high": 5311.76,
+    "low": 5263.26,
+    "close": 5308.15,
+    "volume": "2309693551"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 16 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5310.07,
+    "high": 5325.49,
+    "low": 5296.19,
+    "close": 5297.1,
+    "volume": "2212538542"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 17 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5303.1,
+    "high": 5305.45,
+    "low": 5283.59,
+    "close": 5303.27,
+    "volume": "1967120185"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 20 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5305.35,
+    "high": 5325.32,
+    "low": 5302.4,
+    "close": 5308.13,
+    "volume": "1832281783"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 21 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5298.69,
+    "high": 5324.32,
+    "low": 5297.87,
+    "close": 5321.41,
+    "volume": "1974321300"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 22 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5319.28,
+    "high": 5323.18,
+    "low": 5286.01,
+    "close": 5307.01,
+    "volume": "2079437184"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 23 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5340.26,
+    "high": 5341.88,
+    "low": 5256.93,
+    "close": 5267.84,
+    "volume": "2290682207"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 24 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5281.45,
+    "high": 5311.65,
+    "low": 5278.39,
+    "close": 5304.72,
+    "volume": "1743354318"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 28 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5315.91,
+    "high": 5315.91,
+    "low": 5280.89,
+    "close": 5306.04,
+    "volume": "2103027432"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 29 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5278.73,
+    "high": 5282.27,
+    "low": 5262.7,
+    "close": 5266.95,
+    "volume": "2213572737"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 30 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5259.77,
+    "high": 5260.21,
+    "low": 5222.1,
+    "close": 5235.48,
+    "volume": "2316855451"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 31 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5243.21,
+    "high": 5280.33,
+    "low": 5191.68,
+    "close": 5277.51,
+    "volume": "3930922654"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 03 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5297.15,
+    "high": 5302.11,
+    "low": 5234.32,
+    "close": 5283.4,
+    "volume": "2302964768"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 04 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5278.24,
+    "high": 5298.8,
+    "low": 5257.63,
+    "close": 5291.34,
+    "volume": "2164149777"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 05 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5314.48,
+    "high": 5354.16,
+    "low": 5297.64,
+    "close": 5354.03,
+    "volume": "2146262616"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 06 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5357.8,
+    "high": 5362.35,
+    "low": 5335.36,
+    "close": 5352.96,
+    "volume": "2010878169"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 07 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5343.81,
+    "high": 5375.08,
+    "low": 5331.33,
+    "close": 5346.99,
+    "volume": "1858111620"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 10 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5341.22,
+    "high": 5365.79,
+    "low": 5331.52,
+    "close": 5360.79,
+    "volume": "2429865093"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 11 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5353,
+    "high": 5375.95,
+    "low": 5327.25,
+    "close": 5375.32,
+    "volume": "2348465741"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 12 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5409.13,
+    "high": 5447.25,
+    "low": 5409.13,
+    "close": 5421.03,
+    "volume": "2704467405"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 13 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5441.93,
+    "high": 5441.93,
+    "low": 5402.51,
+    "close": 5433.74,
+    "volume": "2400335831"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 14 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5424.08,
+    "high": 5432.39,
+    "low": 5403.75,
+    "close": 5431.6,
+    "volume": "2243055474"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 17 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5431.11,
+    "high": 5488.5,
+    "low": 5420.4,
+    "close": 5473.23,
+    "volume": "2420148034"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 18 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5476.15,
+    "high": 5490.38,
+    "low": 5471.32,
+    "close": 5487.03,
+    "volume": "2461866815"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 20 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5499.99,
+    "high": 5505.53,
+    "low": 5455.56,
+    "close": 5473.17,
+    "volume": "2910277019"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 21 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5466.77,
+    "high": 5478.31,
+    "low": 5452.03,
+    "close": 5464.62,
+    "volume": "5262188426"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 24 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5459.58,
+    "high": 5490.66,
+    "low": 5447.59,
+    "close": 5447.87,
+    "volume": "2764542196"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 25 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5460.73,
+    "high": 5472.88,
+    "low": 5446.56,
+    "close": 5469.3,
+    "volume": "2591287124"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 26 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5460.71,
+    "high": 5483.14,
+    "low": 5451.87,
+    "close": 5477.9,
+    "volume": "2559078106"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 27 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5473.59,
+    "high": 5490.81,
+    "low": 5467.54,
+    "close": 5482.87,
+    "volume": "2481421661"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 28 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5488.48,
+    "high": 5523.64,
+    "low": 5451.12,
+    "close": 5460.48,
+    "volume": "4191113989"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 01 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5471.08,
+    "high": 5479.55,
+    "low": 5446.53,
+    "close": 5475.09,
+    "volume": "2405261991"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 02 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5461.84,
+    "high": 5509.69,
+    "low": 5458.43,
+    "close": 5509.01,
+    "volume": "2304047725"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 03 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5507.44,
+    "high": 5539.27,
+    "low": 5507.42,
+    "close": 5537.02,
+    "volume": "1549367174"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 05 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5537.91,
+    "high": 5570.33,
+    "low": 5531.63,
+    "close": 5567.19,
+    "volume": "2251076552"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 08 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5572.75,
+    "high": 5583.11,
+    "low": 5562.51,
+    "close": 5572.85,
+    "volume": "2367962923"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 09 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5584.24,
+    "high": 5590.75,
+    "low": 5574.57,
+    "close": 5576.98,
+    "volume": "2410304329"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 10 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5591.26,
+    "high": 5635.39,
+    "low": 5586.44,
+    "close": 5633.91,
+    "volume": "2293787875"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 11 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5635.21,
+    "high": 5642.45,
+    "low": 5576.53,
+    "close": 5584.54,
+    "volume": "2891782852"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 12 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5590.76,
+    "high": 5655.56,
+    "low": 5590.44,
+    "close": 5615.35,
+    "volume": "2518289932"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 15 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5638.16,
+    "high": 5666.94,
+    "low": 5614.75,
+    "close": 5631.22,
+    "volume": "2413952993"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 16 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5644.09,
+    "high": 5669.67,
+    "low": 5639.02,
+    "close": 5667.2,
+    "volume": "2531434039"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 17 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5610.07,
+    "high": 5622.49,
+    "low": 5584.81,
+    "close": 5588.27,
+    "volume": "3147941670"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 18 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5608.56,
+    "high": 5614.05,
+    "low": 5522.81,
+    "close": 5544.59,
+    "volume": "2925863797"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 19 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5543.37,
+    "high": 5557.5,
+    "low": 5497.04,
+    "close": 5505,
+    "volume": "2649395359"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 22 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5544.54,
+    "high": 5570.36,
+    "low": 5529.04,
+    "close": 5564.41,
+    "volume": "2510186143"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 23 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5565.3,
+    "high": 5585.34,
+    "low": 5550.9,
+    "close": 5555.74,
+    "volume": "2396798167"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 24 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5505.84,
+    "high": 5508.04,
+    "low": 5419.98,
+    "close": 5427.13,
+    "volume": "3019958131"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 25 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5428.7,
+    "high": 5491.59,
+    "low": 5390.95,
+    "close": 5399.22,
+    "volume": "3527915379"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 26 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5433.67,
+    "high": 5488.32,
+    "low": 5430.7,
+    "close": 5459.1,
+    "volume": "2629669887"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 29 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5476.55,
+    "high": 5487.74,
+    "low": 5444.44,
+    "close": 5463.54,
+    "volume": "2365507845"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 30 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5478.73,
+    "high": 5489.46,
+    "low": 5401.7,
+    "close": 5436.44,
+    "volume": "2986625387"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 31 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5505.59,
+    "high": 5551.51,
+    "low": 5493.75,
+    "close": 5522.3,
+    "volume": "3414671559"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 01 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5537.84,
+    "high": 5566.16,
+    "low": 5410.42,
+    "close": 5446.68,
+    "volume": "3418904485"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 02 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5376.63,
+    "high": 5383.89,
+    "low": 5302.03,
+    "close": 5346.56,
+    "volume": "3978703316"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 05 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5151.14,
+    "high": 5250.89,
+    "low": 5119.26,
+    "close": 5186.33,
+    "volume": "3980390351"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 06 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5206.42,
+    "high": 5312.34,
+    "low": 5193.56,
+    "close": 5240.03,
+    "volume": "3151389904"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 07 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5293.13,
+    "high": 5330.64,
+    "low": 5195.54,
+    "close": 5199.5,
+    "volume": "2941853299"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 08 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5252.57,
+    "high": 5328.03,
+    "low": 5233.85,
+    "close": 5319.31,
+    "volume": "2678076619"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 09 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5314.66,
+    "high": 5358.67,
+    "low": 5300.84,
+    "close": 5344.16,
+    "volume": "2166862146"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 12 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5351.88,
+    "high": 5371.2,
+    "low": 5324.37,
+    "close": 5344.39,
+    "volume": "2260298271"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 13 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5376.98,
+    "high": 5436.5,
+    "low": 5376.98,
+    "close": 5434.43,
+    "volume": "2570811508"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 14 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5442.36,
+    "high": 5463.22,
+    "low": 5415.91,
+    "close": 5455.21,
+    "volume": "2314941339"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 15 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5501.13,
+    "high": 5546.23,
+    "low": 5501.13,
+    "close": 5543.22,
+    "volume": "2634228527"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 16 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5530.5,
+    "high": 5561.98,
+    "low": 5525.17,
+    "close": 5554.25,
+    "volume": "2268720418"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 19 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5557.23,
+    "high": 5608.3,
+    "low": 5550.74,
+    "close": 5608.25,
+    "volume": "2087595197"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 20 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5602.88,
+    "high": 5620.51,
+    "low": 5585.5,
+    "close": 5597.12,
+    "volume": "2107090596"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 21 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5603.09,
+    "high": 5632.68,
+    "low": 5591.57,
+    "close": 5620.85,
+    "volume": "2012469478"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 22 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5637.77,
+    "high": 5643.22,
+    "low": 5560.95,
+    "close": 5570.64,
+    "volume": "2194647052"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 23 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5602.49,
+    "high": 5641.82,
+    "low": 5585.16,
+    "close": 5634.61,
+    "volume": "2202182799"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 26 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5639.66,
+    "high": 5651.62,
+    "low": 5602.34,
+    "close": 5616.84,
+    "volume": "2001282879"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 27 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5602.89,
+    "high": 5631.18,
+    "low": 5593.48,
+    "close": 5625.8,
+    "volume": "1976075739"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 28 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5624.51,
+    "high": 5627.03,
+    "low": 5560.95,
+    "close": 5592.18,
+    "volume": "2132471376"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 29 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5607.3,
+    "high": 5646.95,
+    "low": 5583.71,
+    "close": 5591.96,
+    "volume": "2310418093"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 30 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5612.74,
+    "high": 5651.37,
+    "low": 5581.79,
+    "close": 5648.4,
+    "volume": "2762259722"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 03 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5623.89,
+    "high": 5623.89,
+    "low": 5504.33,
+    "close": 5528.93,
+    "volume": "2889025715"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 04 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5506.68,
+    "high": 5552.99,
+    "low": 5503.66,
+    "close": 5520.07,
+    "volume": "2476388898"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 05 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5520.08,
+    "high": 5546.3,
+    "low": 5480.54,
+    "close": 5503.41,
+    "volume": "2438758429"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 06 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5507.33,
+    "high": 5522.47,
+    "low": 5402.62,
+    "close": 5408.42,
+    "volume": "2796173257"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 09 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5442.07,
+    "high": 5484.2,
+    "low": 5434.49,
+    "close": 5471.05,
+    "volume": "2563088575"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 10 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5490.51,
+    "high": 5497.91,
+    "low": 5441.72,
+    "close": 5495.52,
+    "volume": "2530774046"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 11 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5496.42,
+    "high": 5560.41,
+    "low": 5406.96,
+    "close": 5554.13,
+    "volume": "2798708651"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 12 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5557.48,
+    "high": 5600.71,
+    "low": 5535.5,
+    "close": 5595.76,
+    "volume": "2572650974"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 13 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5603.34,
+    "high": 5636.27,
+    "low": 5601.65,
+    "close": 5626.02,
+    "volume": "2202686111"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 16 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5615.21,
+    "high": 5636.05,
+    "low": 5604.53,
+    "close": 5633.09,
+    "volume": "2318065724"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 17 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5655.51,
+    "high": 5670.81,
+    "low": 5614.05,
+    "close": 5634.58,
+    "volume": "2342473577"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 18 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5641.68,
+    "high": 5689.75,
+    "low": 5615.08,
+    "close": 5618.26,
+    "volume": "2458455287"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 19 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5702.63,
+    "high": 5733.57,
+    "low": 5686.42,
+    "close": 5713.64,
+    "volume": "2789941065"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 20 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5709.64,
+    "high": 5715.14,
+    "low": 5674.49,
+    "close": 5702.55,
+    "volume": "5736379725"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 23 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5711.9,
+    "high": 5725.36,
+    "low": 5704.22,
+    "close": 5718.57,
+    "volume": "2429303077"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 24 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5727.66,
+    "high": 5735.32,
+    "low": 5698.99,
+    "close": 5732.93,
+    "volume": "2571337590"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 25 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5733.65,
+    "high": 5741.03,
+    "low": 5712.06,
+    "close": 5722.26,
+    "volume": "2450340600"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 26 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5762.22,
+    "high": 5767.37,
+    "low": 5721.01,
+    "close": 5745.37,
+    "volume": "2756431397"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 27 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5755.36,
+    "high": 5763.78,
+    "low": 5727.34,
+    "close": 5738.17,
+    "volume": "2317410119"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 30 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5726.52,
+    "high": 5765.14,
+    "low": 5703.53,
+    "close": 5762.48,
+    "volume": "2512100061"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 01 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5757.73,
+    "high": 5757.73,
+    "low": 5681.28,
+    "close": 5708.75,
+    "volume": "2623242153"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 02 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5698.14,
+    "high": 5719.63,
+    "low": 5674,
+    "close": 5709.54,
+    "volume": "2224344812"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 03 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5698.19,
+    "high": 5718.78,
+    "low": 5677.37,
+    "close": 5699.94,
+    "volume": "2199794863"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 04 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5737.48,
+    "high": 5753.21,
+    "low": 5702.83,
+    "close": 5751.07,
+    "volume": "2211353425"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 07 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5737.8,
+    "high": 5739.34,
+    "low": 5686.85,
+    "close": 5695.94,
+    "volume": "2384804685"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 08 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5719.14,
+    "high": 5757.6,
+    "low": 5714.56,
+    "close": 5751.13,
+    "volume": "2274877236"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 09 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5751.8,
+    "high": 5796.8,
+    "low": 5745.02,
+    "close": 5792.04,
+    "volume": "2222040985"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 10 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5778.36,
+    "high": 5795.03,
+    "low": 5764.76,
+    "close": 5780.05,
+    "volume": "2091866037"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 11 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5775.09,
+    "high": 5822.13,
+    "low": 5775.09,
+    "close": 5815.03,
+    "volume": "2154169249"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 14 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5829.81,
+    "high": 5871.41,
+    "low": 5829.57,
+    "close": 5859.85,
+    "volume": "2003295456"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 15 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5866.74,
+    "high": 5870.36,
+    "low": 5804.48,
+    "close": 5815.26,
+    "volume": "2828509934"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 16 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5816.58,
+    "high": 5846.52,
+    "low": 5808.34,
+    "close": 5842.47,
+    "volume": "2301294506"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 17 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5875.62,
+    "high": 5878.46,
+    "low": 5840.25,
+    "close": 5841.47,
+    "volume": "2394376383"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 18 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5859.43,
+    "high": 5872.17,
+    "low": 5846.11,
+    "close": 5864.67,
+    "volume": "2157845295"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 21 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5857.82,
+    "high": 5866.92,
+    "low": 5824.79,
+    "close": 5853.98,
+    "volume": "2091355741"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 22 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5832.7,
+    "high": 5863.04,
+    "low": 5821.17,
+    "close": 5851.2,
+    "volume": "2245293747"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 23 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5834.5,
+    "high": 5834.85,
+    "low": 5762.41,
+    "close": 5797.42,
+    "volume": "2375100419"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 24 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5817.8,
+    "high": 5817.8,
+    "low": 5784.92,
+    "close": 5809.86,
+    "volume": "2283227696"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 25 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5826.75,
+    "high": 5862.82,
+    "low": 5799.98,
+    "close": 5808.12,
+    "volume": "2270596865"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 28 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5833.93,
+    "high": 5842.92,
+    "low": 5823.08,
+    "close": 5823.52,
+    "volume": "2209334797"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 29 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5819.68,
+    "high": 5847.19,
+    "low": 5802.17,
+    "close": 5832.92,
+    "volume": "2572018715"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 30 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5832.65,
+    "high": 5850.94,
+    "low": 5811.28,
+    "close": 5813.67,
+    "volume": "2847422903"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 31 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5775.34,
+    "high": 5775.34,
+    "low": 5702.86,
+    "close": 5705.45,
+    "volume": "3332360701"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 01 2024 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5723.22,
+    "high": 5772.52,
+    "low": 5723.22,
+    "close": 5728.8,
+    "volume": "2742173410"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 04 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5725.15,
+    "high": 5741.43,
+    "low": 5696.51,
+    "close": 5712.69,
+    "volume": "2423396486"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 05 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5722.43,
+    "high": 5783.44,
+    "low": 5722.1,
+    "close": 5782.76,
+    "volume": "2366842625"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 06 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5864.89,
+    "high": 5936.14,
+    "low": 5864.89,
+    "close": 5929.04,
+    "volume": "4192067340"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 07 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5947.21,
+    "high": 5983.84,
+    "low": 5947.21,
+    "close": 5973.1,
+    "volume": "3071243707"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 08 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5976.76,
+    "high": 6012.45,
+    "low": 5976.76,
+    "close": 5995.54,
+    "volume": "2756536816"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 11 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6008.86,
+    "high": 6017.31,
+    "low": 5986.69,
+    "close": 6001.35,
+    "volume": "2714209900"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 12 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6003.6,
+    "high": 6009.92,
+    "low": 5960.08,
+    "close": 5983.99,
+    "volume": "2611467951"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 13 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5985.75,
+    "high": 6008.19,
+    "low": 5965.91,
+    "close": 5985.38,
+    "volume": "2602203282"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 14 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5989.68,
+    "high": 5993.88,
+    "low": 5942.28,
+    "close": 5949.17,
+    "volume": "2623461604"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 15 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5912.79,
+    "high": 5915.32,
+    "low": 5853.01,
+    "close": 5870.62,
+    "volume": "3288789253"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 18 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5874.17,
+    "high": 5908.12,
+    "low": 5865.95,
+    "close": 5893.62,
+    "volume": "2820487217"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 19 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5870.05,
+    "high": 5923.51,
+    "low": 5855.29,
+    "close": 5916.98,
+    "volume": "2673922540"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 20 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5914.34,
+    "high": 5920.67,
+    "low": 5860.56,
+    "close": 5917.11,
+    "volume": "2578080238"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 21 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5940.58,
+    "high": 5963.32,
+    "low": 5887.26,
+    "close": 5948.71,
+    "volume": "2857014860"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 22 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5944.36,
+    "high": 5972.9,
+    "low": 5944.36,
+    "close": 5969.34,
+    "volume": "2609740025"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 25 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5992.28,
+    "high": 6020.75,
+    "low": 5963.91,
+    "close": 5987.37,
+    "volume": "3948304635"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 26 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6000.03,
+    "high": 6025.42,
+    "low": 5992.27,
+    "close": 6021.63,
+    "volume": "2416828421"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 27 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6014.11,
+    "high": 6020.16,
+    "low": 5984.87,
+    "close": 5998.74,
+    "volume": "2090790475"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 29 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6003.98,
+    "high": 6044.17,
+    "low": 6003.98,
+    "close": 6032.38,
+    "volume": "1446140067"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 02 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6040.11,
+    "high": 6053.58,
+    "low": 6035.33,
+    "close": 6047.15,
+    "volume": "2724890947"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 03 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6042.97,
+    "high": 6052.07,
+    "low": 6033.39,
+    "close": 6049.88,
+    "volume": "2631959854"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 04 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6069.39,
+    "high": 6089.84,
+    "low": 6061.06,
+    "close": 6086.49,
+    "volume": "2629946648"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 05 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6089.03,
+    "high": 6094.55,
+    "low": 6072.9,
+    "close": 6075.11,
+    "volume": "2638048678"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 06 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6081.38,
+    "high": 6099.97,
+    "low": 6079.98,
+    "close": 6090.27,
+    "volume": "2494915762"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 09 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6083.01,
+    "high": 6088.51,
+    "low": 6048.63,
+    "close": 6052.85,
+    "volume": "2924094285"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 10 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6057.59,
+    "high": 6065.4,
+    "low": 6029.89,
+    "close": 6034.91,
+    "volume": "2778369429"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 11 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6060.15,
+    "high": 6092.59,
+    "low": 6060.15,
+    "close": 6084.19,
+    "volume": "2856984712"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 12 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6074.29,
+    "high": 6079.68,
+    "low": 6051.25,
+    "close": 6051.25,
+    "volume": "2378727487"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 13 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6068.17,
+    "high": 6078.58,
+    "low": 6035.77,
+    "close": 6051.09,
+    "volume": "2443474215"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 16 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6063.79,
+    "high": 6085.19,
+    "low": 6059.14,
+    "close": 6074.08,
+    "volume": "3097239687"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 17 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6052.55,
+    "high": 6057.68,
+    "low": 6035.19,
+    "close": 6050.61,
+    "volume": "3000899439"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 18 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6047.65,
+    "high": 6070.67,
+    "low": 5867.79,
+    "close": 5872.16,
+    "volume": "3301322111"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 19 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5912.71,
+    "high": 5935.52,
+    "low": 5866.07,
+    "close": 5867.08,
+    "volume": "3217378918"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 20 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5842,
+    "high": 5982.06,
+    "low": 5832.3,
+    "close": 5930.85,
+    "volume": "6347727401"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 23 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5940.25,
+    "high": 5978.25,
+    "low": 5902.57,
+    "close": 5974.07,
+    "volume": "2311068693"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 24 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5984.63,
+    "high": 6040.1,
+    "low": 5981.44,
+    "close": 6040.04,
+    "volume": "1127118254"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 26 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6024.97,
+    "high": 6049.75,
+    "low": 6007.37,
+    "close": 6037.59,
+    "volume": "1482485163"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 27 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6006.17,
+    "high": 6006.17,
+    "low": 5932.95,
+    "close": 5970.84,
+    "volume": "1807640884"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 30 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5920.67,
+    "high": 5940.79,
+    "low": 5869.16,
+    "close": 5906.94,
+    "volume": "1927545914"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 31 2024 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5919.74,
+    "high": 5929.74,
+    "low": 5868.86,
+    "close": 5881.63,
+    "volume": "1785851688"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 02 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5903.26,
+    "high": 5935.09,
+    "low": 5829.53,
+    "close": 5868.55,
+    "volume": "2210071126"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 03 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5891.07,
+    "high": 5949.34,
+    "low": 5888.66,
+    "close": 5942.47,
+    "volume": "2190353238"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 06 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5982.81,
+    "high": 6021.04,
+    "low": 5960.01,
+    "close": 5975.38,
+    "volume": "2802829671"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 07 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5993.26,
+    "high": 6000.68,
+    "low": 5890.68,
+    "close": 5909.03,
+    "volume": "2676437580"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 08 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5910.66,
+    "high": 5927.89,
+    "low": 5874.78,
+    "close": 5918.25,
+    "volume": "2502210380"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 10 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5890.35,
+    "high": 5890.35,
+    "low": 5807.78,
+    "close": 5827.04,
+    "volume": "3055778240"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 13 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5782.02,
+    "high": 5838.61,
+    "low": 5773.31,
+    "close": 5836.22,
+    "volume": "2721450612"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 14 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5859.27,
+    "high": 5871.92,
+    "low": 5805.42,
+    "close": 5842.91,
+    "volume": "2434957076"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 15 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5905.21,
+    "high": 5960.61,
+    "low": 5905.21,
+    "close": 5949.91,
+    "volume": "2740994513"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 16 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5963.61,
+    "high": 5964.69,
+    "low": 5930.72,
+    "close": 5937.34,
+    "volume": "2515871927"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 17 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5995.4,
+    "high": 6014.96,
+    "low": 5978.44,
+    "close": 5996.66,
+    "volume": "2984861785"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 21 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6014.12,
+    "high": 6051.51,
+    "low": 6006.88,
+    "close": 6049.24,
+    "volume": "3041263308"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 22 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6081.39,
+    "high": 6100.81,
+    "low": 6076.13,
+    "close": 6086.37,
+    "volume": "2857124946"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 23 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6076.32,
+    "high": 6118.73,
+    "low": 6074.67,
+    "close": 6118.71,
+    "volume": "2474451164"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 24 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6121.43,
+    "high": 6128.18,
+    "low": 6088.74,
+    "close": 6101.24,
+    "volume": "2507791504"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 27 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5969.04,
+    "high": 6017.17,
+    "low": 5962.92,
+    "close": 6012.28,
+    "volume": "4076897334"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 28 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6026.97,
+    "high": 6074.54,
+    "low": 5994.63,
+    "close": 6067.7,
+    "volume": "3319837438"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 29 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6057.7,
+    "high": 6062.83,
+    "low": 6012.96,
+    "close": 6039.31,
+    "volume": "2830742115"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 30 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6050.75,
+    "high": 6086.64,
+    "low": 6027.46,
+    "close": 6071.17,
+    "volume": "3068265894"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 31 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6096.79,
+    "high": 6120.91,
+    "low": 6030.93,
+    "close": 6040.53,
+    "volume": "3517384478"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 03 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5969.65,
+    "high": 6022.13,
+    "low": 5923.93,
+    "close": 5994.57,
+    "volume": "3289467890"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 04 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5998.14,
+    "high": 6042.48,
+    "low": 5990.87,
+    "close": 6037.88,
+    "volume": "3054209134"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 05 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6020.45,
+    "high": 6062.86,
+    "low": 6007.06,
+    "close": 6061.48,
+    "volume": "3147722642"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 06 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6072.22,
+    "high": 6084.03,
+    "low": 6046.83,
+    "close": 6083.57,
+    "volume": "3084795461"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 07 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6083.13,
+    "high": 6101.28,
+    "low": 6019.96,
+    "close": 6025.99,
+    "volume": "2940570238"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 10 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6046.4,
+    "high": 6073.38,
+    "low": 6044.84,
+    "close": 6066.44,
+    "volume": "2743606149"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 11 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6049.32,
+    "high": 6076.28,
+    "low": 6042.34,
+    "close": 6068.5,
+    "volume": "2748396013"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 12 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6025.08,
+    "high": 6063,
+    "low": 6003,
+    "close": 6051.97,
+    "volume": "2878167149"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 13 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6060.59,
+    "high": 6116.91,
+    "low": 6050.95,
+    "close": 6115.07,
+    "volume": "2949594434"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 14 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6115.52,
+    "high": 6127.47,
+    "low": 6107.62,
+    "close": 6114.63,
+    "volume": "2801121274"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 18 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6121.6,
+    "high": 6129.63,
+    "low": 6099.51,
+    "close": 6129.58,
+    "volume": "3260380206"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 19 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6117.76,
+    "high": 6147.43,
+    "low": 6111.15,
+    "close": 6144.15,
+    "volume": "3043365332"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 20 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6134.5,
+    "high": 6134.5,
+    "low": 6084.59,
+    "close": 6117.52,
+    "volume": "2957558735"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 21 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6114.1,
+    "high": 6114.82,
+    "low": 6008.56,
+    "close": 6013.13,
+    "volume": "3386529313"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 24 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6026.69,
+    "high": 6043.65,
+    "low": 5977.83,
+    "close": 5983.25,
+    "volume": "3282444303"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 25 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5982.73,
+    "high": 5992.65,
+    "low": 5908.49,
+    "close": 5955.25,
+    "volume": "3485186582"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 26 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5970.87,
+    "high": 6009.82,
+    "low": 5932.69,
+    "close": 5956.06,
+    "volume": "2964610227"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 27 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5981.88,
+    "high": 5993.69,
+    "low": 5858.78,
+    "close": 5861.57,
+    "volume": "3331941837"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 28 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5856.74,
+    "high": 5959.4,
+    "low": 5837.66,
+    "close": 5954.5,
+    "volume": "4316692726"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 03 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5968.33,
+    "high": 5986.09,
+    "low": 5810.91,
+    "close": 5849.72,
+    "volume": "3603000420"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 04 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5811.98,
+    "high": 5865.08,
+    "low": 5732.59,
+    "close": 5778.15,
+    "volume": "4246585884"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 05 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5781.36,
+    "high": 5860.59,
+    "low": 5742.35,
+    "close": 5842.63,
+    "volume": "3325531511"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 06 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5785.87,
+    "high": 5812.08,
+    "low": 5711.64,
+    "close": 5738.52,
+    "volume": "3339780761"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 07 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 5726.01,
+    "high": 5783.01,
+    "low": 5666.29,
+    "close": 5770.2,
+    "volume": "3959743165"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 10 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5705.37,
+    "high": 5705.37,
+    "low": 5564.02,
+    "close": 5614.56,
+    "volume": "4333777137"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 11 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5603.65,
+    "high": 5636.3,
+    "low": 5528.41,
+    "close": 5572.07,
+    "volume": "4112822451"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 12 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5624.84,
+    "high": 5642.19,
+    "low": 5546.09,
+    "close": 5599.3,
+    "volume": "3450861763"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 13 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5594.45,
+    "high": 5597.78,
+    "low": 5504.65,
+    "close": 5521.52,
+    "volume": "3323485209"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 14 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5563.85,
+    "high": 5645.27,
+    "low": 5563.85,
+    "close": 5638.94,
+    "volume": "3011969007"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 17 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5635.6,
+    "high": 5703.52,
+    "low": 5631.12,
+    "close": 5675.12,
+    "volume": "2983957601"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 18 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5654.53,
+    "high": 5654.53,
+    "low": 5597.76,
+    "close": 5614.66,
+    "volume": "2895840659"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 19 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5632.37,
+    "high": 5715.33,
+    "low": 5622.2,
+    "close": 5675.29,
+    "volume": "3021919411"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 20 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5646.92,
+    "high": 5711.15,
+    "low": 5632.33,
+    "close": 5662.89,
+    "volume": "2841249219"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 21 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5630.73,
+    "high": 5670.84,
+    "low": 5603.1,
+    "close": 5667.56,
+    "volume": "6468495934"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 24 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5718.08,
+    "high": 5775.14,
+    "low": 5718.08,
+    "close": 5767.57,
+    "volume": "3039851911"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 25 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5775.96,
+    "high": 5786.95,
+    "low": 5760.42,
+    "close": 5776.65,
+    "volume": "2675650367"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 26 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5771.66,
+    "high": 5783.62,
+    "low": 5694.41,
+    "close": 5712.2,
+    "volume": "2865457257"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 27 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5695.64,
+    "high": 5732.28,
+    "low": 5670.94,
+    "close": 5693.31,
+    "volume": "2824605380"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 28 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5679.2,
+    "high": 5685.89,
+    "low": 5572.42,
+    "close": 5580.94,
+    "volume": "2837703209"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 31 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5527.91,
+    "high": 5627.56,
+    "low": 5488.73,
+    "close": 5611.85,
+    "volume": "3675243524"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 01 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5597.53,
+    "high": 5650.57,
+    "low": 5558.52,
+    "close": 5633.07,
+    "volume": "2781333289"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 02 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5580.76,
+    "high": 5695.31,
+    "low": 5571.48,
+    "close": 5670.97,
+    "volume": "2742941301"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 03 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5492.74,
+    "high": 5499.53,
+    "low": 5390.83,
+    "close": 5396.52,
+    "volume": "4996896429"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 04 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5292.14,
+    "high": 5292.14,
+    "low": 5069.9,
+    "close": 5074.08,
+    "volume": "6052894256"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 07 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4953.79,
+    "high": 5246.57,
+    "low": 4835.04,
+    "close": 5062.25,
+    "volume": "6239428293"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 08 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5193.57,
+    "high": 5267.47,
+    "low": 4910.42,
+    "close": 4982.77,
+    "volume": "5074219157"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 09 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 4965.28,
+    "high": 5481.34,
+    "low": 4948.43,
+    "close": 5456.9,
+    "volume": "6666213104"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 10 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5353.15,
+    "high": 5353.15,
+    "low": 5115.27,
+    "close": 5268.05,
+    "volume": "4796067908"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 11 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5255.56,
+    "high": 5381.46,
+    "low": 5220.77,
+    "close": 5363.36,
+    "volume": "3746060666"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 14 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5441.96,
+    "high": 5459.46,
+    "low": 5358.02,
+    "close": 5405.97,
+    "volume": "3281232715"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 15 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5411.99,
+    "high": 5450.41,
+    "low": 5386.44,
+    "close": 5396.63,
+    "volume": "2806100917"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 16 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5335.75,
+    "high": 5367.24,
+    "low": 5220.79,
+    "close": 5275.7,
+    "volume": "3336999562"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 17 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5305.45,
+    "high": 5328.31,
+    "low": 5255.58,
+    "close": 5282.7,
+    "volume": "3140856780"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 21 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5232.94,
+    "high": 5232.94,
+    "low": 5101.63,
+    "close": 5158.2,
+    "volume": "2953934584"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 22 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5207.67,
+    "high": 5309.61,
+    "low": 5207.67,
+    "close": 5287.76,
+    "volume": "3049425683"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 23 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5395.92,
+    "high": 5469.69,
+    "low": 5356.17,
+    "close": 5375.86,
+    "volume": "3535896370"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Apr 24 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5381.38,
+    "high": 5489.4,
+    "low": 5371.96,
+    "close": 5484.77,
+    "volume": "3138911463"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Apr 25 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5489.73,
+    "high": 5528.11,
+    "low": 5455.86,
+    "close": 5525.21,
+    "volume": "2943164032"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Apr 28 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5529.22,
+    "high": 5553.66,
+    "low": 5468.64,
+    "close": 5528.75,
+    "volume": "2767087321"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Apr 29 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5508.87,
+    "high": 5571.95,
+    "low": 5505.7,
+    "close": 5560.83,
+    "volume": "2812450680"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Apr 30 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5499.44,
+    "high": 5581.84,
+    "low": 5433.24,
+    "close": 5569.06,
+    "volume": "3742261213"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 01 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5625.14,
+    "high": 5658.91,
+    "low": 5597.35,
+    "close": 5604.14,
+    "volume": "3224921079"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 02 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5645.88,
+    "high": 5700.7,
+    "low": 5642.28,
+    "close": 5686.67,
+    "volume": "3010089578"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 05 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5655.32,
+    "high": 5683.38,
+    "low": 5634.48,
+    "close": 5650.38,
+    "volume": "2693789287"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 06 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5605.87,
+    "high": 5649.58,
+    "low": 5586.04,
+    "close": 5606.91,
+    "volume": "2767164782"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 07 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5614.18,
+    "high": 5654.73,
+    "low": 5578.64,
+    "close": 5631.28,
+    "volume": "3197894396"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 08 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5663.6,
+    "high": 5720.1,
+    "low": 5635.38,
+    "close": 5663.94,
+    "volume": "3208687019"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 09 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5679.65,
+    "high": 5691.69,
+    "low": 5644.15,
+    "close": 5659.91,
+    "volume": "2429494619"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 12 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5807.2,
+    "high": 5845.37,
+    "low": 5786.08,
+    "close": 5844.19,
+    "volume": "3756162007"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 13 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5854.15,
+    "high": 5906.64,
+    "low": 5845.02,
+    "close": 5886.55,
+    "volume": "3512934287"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 14 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5896.74,
+    "high": 5906.55,
+    "low": 5872.11,
+    "close": 5892.58,
+    "volume": "3445232926"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 15 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5869.82,
+    "high": 5924.21,
+    "low": 5865.16,
+    "close": 5916.93,
+    "volume": "3138351580"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 16 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5929.09,
+    "high": 5958.62,
+    "low": 5907.36,
+    "close": 5958.38,
+    "volume": "2931804148"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon May 19 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5902.88,
+    "high": 5968.61,
+    "low": 5895.69,
+    "close": 5963.6,
+    "volume": "2576639838"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 20 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5944.66,
+    "high": 5953.06,
+    "low": 5909.26,
+    "close": 5940.46,
+    "volume": "2543562609"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 21 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5910.18,
+    "high": 5938.37,
+    "low": 5830.91,
+    "close": 5844.61,
+    "volume": "3112417919"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 22 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5841.26,
+    "high": 5878.08,
+    "low": 5825.82,
+    "close": 5842.01,
+    "volume": "2780782105"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 23 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5781.89,
+    "high": 5829.51,
+    "low": 5767.41,
+    "close": 5802.82,
+    "volume": "2550252052"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue May 27 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5854.07,
+    "high": 5924.33,
+    "low": 5854.07,
+    "close": 5921.54,
+    "volume": "2882838064"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed May 28 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5925.54,
+    "high": 5939.92,
+    "low": 5881.88,
+    "close": 5888.55,
+    "volume": "2613506833"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu May 29 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5939.96,
+    "high": 5943.13,
+    "low": 5873.8,
+    "close": 5912.17,
+    "volume": "2851903524"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri May 30 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5903.67,
+    "high": 5922.14,
+    "low": 5843.66,
+    "close": 5911.69,
+    "volume": "4812538509"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 02 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5896.68,
+    "high": 5937.4,
+    "low": 5861.43,
+    "close": 5935.94,
+    "volume": "2747394993"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 03 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5938.56,
+    "high": 5981.35,
+    "low": 5929,
+    "close": 5970.37,
+    "volume": "2959610307"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 04 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5978.94,
+    "high": 5990.48,
+    "low": 5966.11,
+    "close": 5970.81,
+    "volume": "2680331774"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 05 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5985.67,
+    "high": 5999.7,
+    "low": 5921.2,
+    "close": 5939.3,
+    "volume": "3128216678"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 06 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5987.06,
+    "high": 6016.87,
+    "low": 5978.63,
+    "close": 6000.36,
+    "volume": "2557851418"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 09 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6004.63,
+    "high": 6021.31,
+    "low": 5994.18,
+    "close": 6005.88,
+    "volume": "2882903740"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 10 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6009.91,
+    "high": 6043.01,
+    "low": 6000.28,
+    "close": 6038.81,
+    "volume": "2976909395"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 11 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6049.38,
+    "high": 6059.4,
+    "low": 6002.32,
+    "close": 6022.24,
+    "volume": "2978585361"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 12 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6009.9,
+    "high": 6045.43,
+    "low": 6003.88,
+    "close": 6045.26,
+    "volume": "2614508550"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 13 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6000.56,
+    "high": 6026.16,
+    "low": 5963.21,
+    "close": 5976.97,
+    "volume": "3001801788"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 16 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6004,
+    "high": 6050.83,
+    "low": 6004,
+    "close": 6033.11,
+    "volume": "2870307250"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 17 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6012.15,
+    "high": 6023.25,
+    "low": 5974.8,
+    "close": 5982.72,
+    "volume": "2830518423"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 18 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5987.93,
+    "high": 6018.25,
+    "low": 5971.89,
+    "close": 5980.87,
+    "volume": "2941500424"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 20 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5999.67,
+    "high": 6018.2,
+    "low": 5952.56,
+    "close": 5967.84,
+    "volume": "5166023140"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 23 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 5969.67,
+    "high": 6028.77,
+    "low": 5943.23,
+    "close": 6025.17,
+    "volume": "3240747265"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jun 24 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6061.21,
+    "high": 6101.76,
+    "low": 6059.25,
+    "close": 6092.18,
+    "volume": "3266927469"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jun 25 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6104.23,
+    "high": 6108.51,
+    "low": 6080.09,
+    "close": 6092.16,
+    "volume": "2877946880"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jun 26 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6112.09,
+    "high": 6146.52,
+    "low": 6107.27,
+    "close": 6141.02,
+    "volume": "3030187464"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jun 27 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6150.7,
+    "high": 6187.68,
+    "low": 6132.35,
+    "close": 6173.07,
+    "volume": "4593035679"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jun 30 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6193.36,
+    "high": 6215.08,
+    "low": 6174.97,
+    "close": 6204.95,
+    "volume": "3341748573"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 01 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6187.25,
+    "high": 6210.78,
+    "low": 6177.97,
+    "close": 6198.01,
+    "volume": "3552404111"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 02 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6193.88,
+    "high": 6227.6,
+    "low": 6188.29,
+    "close": 6227.42,
+    "volume": "3137017015"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 03 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6246.46,
+    "high": 6284.65,
+    "low": 6246.46,
+    "close": 6279.35,
+    "volume": "1822312475"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 07 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6259.04,
+    "high": 6262.07,
+    "low": 6201,
+    "close": 6229.98,
+    "volume": "2745690910"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 08 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6234.03,
+    "high": 6242.7,
+    "low": 6217.75,
+    "close": 6225.52,
+    "volume": "3004891870"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 09 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6243.33,
+    "high": 6269.16,
+    "low": 6231.43,
+    "close": 6263.26,
+    "volume": "2811985741"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 10 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6266.8,
+    "high": 6290.22,
+    "low": 6251.44,
+    "close": 6280.46,
+    "volume": "2828822051"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 11 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6255.68,
+    "high": 6269.44,
+    "low": 6237.6,
+    "close": 6259.75,
+    "volume": "2619070458"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 14 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6255.15,
+    "high": 6273.31,
+    "low": 6239.22,
+    "close": 6268.56,
+    "volume": "2714541025"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 15 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6295.29,
+    "high": 6302.04,
+    "low": 6241.68,
+    "close": 6243.76,
+    "volume": "3107475666"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 16 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6254.5,
+    "high": 6268.12,
+    "low": 6201.59,
+    "close": 6263.7,
+    "volume": "2965044588"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 17 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6263.4,
+    "high": 6304.69,
+    "low": 6262.27,
+    "close": 6297.36,
+    "volume": "3032165934"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 18 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6312.95,
+    "high": 6315.61,
+    "low": 6285.27,
+    "close": 6296.79,
+    "volume": "3045580686"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 21 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6304.74,
+    "high": 6336.08,
+    "low": 6303.79,
+    "close": 6305.6,
+    "volume": "2664791496"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 22 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6306.6,
+    "high": 6316.12,
+    "low": 6281.71,
+    "close": 6309.62,
+    "volume": "2984046932"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 23 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6326.9,
+    "high": 6360.64,
+    "low": 6317.49,
+    "close": 6358.91,
+    "volume": "3236476715"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 24 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6368.6,
+    "high": 6381.31,
+    "low": 6360.57,
+    "close": 6363.35,
+    "volume": "3364122614"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jul 25 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6370.01,
+    "high": 6395.82,
+    "low": 6368.53,
+    "close": 6388.64,
+    "volume": "2992173391"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jul 28 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6397.69,
+    "high": 6401.07,
+    "low": 6375.79,
+    "close": 6389.77,
+    "volume": "2850714198"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jul 29 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6405.62,
+    "high": 6409.26,
+    "low": 6363.92,
+    "close": 6370.86,
+    "volume": "3249723768"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jul 30 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6381.23,
+    "high": 6396.54,
+    "low": 6336.38,
+    "close": 6362.9,
+    "volume": "3318616891"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jul 31 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6427.02,
+    "high": 6427.02,
+    "low": 6327.64,
+    "close": 6339.39,
+    "volume": "4027280425"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 01 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6287.28,
+    "high": 6287.28,
+    "low": 6212.69,
+    "close": 6238.01,
+    "volume": "3626021707"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 04 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6271.71,
+    "high": 6330.69,
+    "low": 6271.71,
+    "close": 6329.94,
+    "volume": "3010323708"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 05 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6336.63,
+    "high": 6346,
+    "low": 6289.37,
+    "close": 6299.19,
+    "volume": "3170272408"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 06 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6309.3,
+    "high": 6352.83,
+    "low": 6301.11,
+    "close": 6345.06,
+    "volume": "3284219218"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 07 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6374.32,
+    "high": 6389.71,
+    "low": 6310.32,
+    "close": 6340,
+    "volume": "3110668440"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 08 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6355.22,
+    "high": 6395.16,
+    "low": 6355.22,
+    "close": 6389.45,
+    "volume": "2819990494"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 11 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6389.67,
+    "high": 6407.25,
+    "low": 6364.06,
+    "close": 6373.45,
+    "volume": "2887778871"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 12 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6395.17,
+    "high": 6446.55,
+    "low": 6385.76,
+    "close": 6445.76,
+    "volume": "2911142117"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 13 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6462.67,
+    "high": 6480.28,
+    "low": 6445.02,
+    "close": 6466.58,
+    "volume": "3092366955"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 14 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6453.46,
+    "high": 6473.92,
+    "low": 6441.07,
+    "close": 6468.54,
+    "volume": "2802308333"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 15 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6477.38,
+    "high": 6481.34,
+    "low": 6441.85,
+    "close": 6449.8,
+    "volume": "3158030122"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 18 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6445.02,
+    "high": 6455.35,
+    "low": 6437.7,
+    "close": 6449.15,
+    "volume": "2582874714"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 19 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6446.24,
+    "high": 6456.48,
+    "low": 6400.22,
+    "close": 6411.37,
+    "volume": "2943320044"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 20 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6406.62,
+    "high": 6408.4,
+    "low": 6343.86,
+    "close": 6395.78,
+    "volume": "3045092415"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 21 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6380.83,
+    "high": 6393.65,
+    "low": 6352.71,
+    "close": 6370.17,
+    "volume": "2423670211"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 22 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6384.59,
+    "high": 6478.89,
+    "low": 6384.59,
+    "close": 6466.91,
+    "volume": "3061959791"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Aug 25 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6457.67,
+    "high": 6466.89,
+    "low": 6438.06,
+    "close": 6439.32,
+    "volume": "2512875605"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Aug 26 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6435.49,
+    "high": 6468.37,
+    "low": 6429.21,
+    "close": 6465.94,
+    "volume": "3248346183"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Aug 27 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6462.26,
+    "high": 6487.06,
+    "low": 6457.84,
+    "close": 6481.4,
+    "volume": "2942178351"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Aug 28 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6483.84,
+    "high": 6508.23,
+    "low": 6466.96,
+    "close": 6501.86,
+    "volume": "2610972734"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Aug 29 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6489.28,
+    "high": 6491.76,
+    "low": 6444.57,
+    "close": 6460.26,
+    "volume": "2546074725"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 02 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6401.51,
+    "high": 6416.54,
+    "low": 6360.58,
+    "close": 6415.54,
+    "volume": "2874037942"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 03 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6445.82,
+    "high": 6453.67,
+    "low": 6416.17,
+    "close": 6448.26,
+    "volume": "2792779788"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 04 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6456.6,
+    "high": 6502.54,
+    "low": 6445.98,
+    "close": 6502.08,
+    "volume": "2730917879"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 05 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6529.08,
+    "high": 6532.65,
+    "low": 6443.98,
+    "close": 6481.5,
+    "volume": "3163368110"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 08 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6498.09,
+    "high": 6508.67,
+    "low": 6483.29,
+    "close": 6495.15,
+    "volume": "3023973840"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 09 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6503.33,
+    "high": 6518.23,
+    "low": 6483.08,
+    "close": 6512.61,
+    "volume": "2670277502"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 10 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6550.29,
+    "high": 6555.97,
+    "low": 6516.34,
+    "close": 6532.04,
+    "volume": "3176294275"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 11 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6554.41,
+    "high": 6592.89,
+    "low": 6545.8,
+    "close": 6587.47,
+    "volume": "3247052543"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 12 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6590.66,
+    "high": 6600.21,
+    "low": 6579.49,
+    "close": 6584.29,
+    "volume": "2982240162"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 15 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6603.49,
+    "high": 6619.62,
+    "low": 6602.07,
+    "close": 6615.28,
+    "volume": "2922962206"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 16 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6624.13,
+    "high": 6626.99,
+    "low": 6600.11,
+    "close": 6606.76,
+    "volume": "2894122043"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 17 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6604.87,
+    "high": 6624.39,
+    "low": 6551.15,
+    "close": 6600.35,
+    "volume": "3038387773"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 18 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6626.85,
+    "high": 6656.8,
+    "low": 6611.89,
+    "close": 6631.96,
+    "volume": "3468730581"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 19 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6647.11,
+    "high": 6671.82,
+    "low": 6630.31,
+    "close": 6664.36,
+    "volume": "5973801852"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 22 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6654.28,
+    "high": 6698.88,
+    "low": 6648.07,
+    "close": 6693.75,
+    "volume": "3289338661"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 23 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6692.44,
+    "high": 6699.52,
+    "low": 6645.58,
+    "close": 6656.92,
+    "volume": "3123769055"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Sep 24 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6669.79,
+    "high": 6672.66,
+    "low": 6621.76,
+    "close": 6637.97,
+    "volume": "3009670437"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Sep 25 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6608.19,
+    "high": 6619,
+    "low": 6569.22,
+    "close": 6604.72,
+    "volume": "3302429839"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Sep 26 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6615.38,
+    "high": 6648.97,
+    "low": 6604.43,
+    "close": 6643.7,
+    "volume": "2913475202"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Sep 29 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6661.58,
+    "high": 6677.31,
+    "low": 6644.49,
+    "close": 6661.21,
+    "volume": "3225218273"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Sep 30 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6656.19,
+    "high": 6691.25,
+    "low": 6641,
+    "close": 6688.46,
+    "volume": "3524795657"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 01 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6664.92,
+    "high": 6718.48,
+    "low": 6656.2,
+    "close": 6711.2,
+    "volume": "3513613890"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 02 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6731.31,
+    "high": 6731.94,
+    "low": 6693.23,
+    "close": 6715.35,
+    "volume": "3030547729"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 03 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6722.14,
+    "high": 6750.87,
+    "low": 6705.67,
+    "close": 6715.79,
+    "volume": "2905076096"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 06 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6733.86,
+    "high": 6749.52,
+    "low": 6717.78,
+    "close": 6740.28,
+    "volume": "3273889688"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 07 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6746.14,
+    "high": 6754.49,
+    "low": 6699.96,
+    "close": 6714.59,
+    "volume": "3038586085"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 08 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6723.87,
+    "high": 6755.64,
+    "low": 6718.09,
+    "close": 6753.72,
+    "volume": "2915998995"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 09 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6760.5,
+    "high": 6764.58,
+    "low": 6716.17,
+    "close": 6735.11,
+    "volume": "2805462918"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 10 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6740.49,
+    "high": 6762.4,
+    "low": 6550.78,
+    "close": 6552.51,
+    "volume": "3543570934"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 13 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6622.53,
+    "high": 6668.68,
+    "low": 6620.71,
+    "close": 6654.72,
+    "volume": "2741660043"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 14 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6602.49,
+    "high": 6680.7,
+    "low": 6555.07,
+    "close": 6644.31,
+    "volume": "2973611082"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 15 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6688.27,
+    "high": 6724.12,
+    "low": 6612.11,
+    "close": 6671.06,
+    "volume": "2966092668"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 16 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6689.02,
+    "high": 6709.34,
+    "low": 6593.99,
+    "close": 6629.07,
+    "volume": "3314176129"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 17 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6613.27,
+    "high": 6678.88,
+    "low": 6603.76,
+    "close": 6664.01,
+    "volume": "3135680304"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 20 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6690.05,
+    "high": 6744.35,
+    "low": 6690.05,
+    "close": 6735.13,
+    "volume": "2678293107"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 21 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6736.75,
+    "high": 6752.16,
+    "low": 6722.03,
+    "close": 6735.35,
+    "volume": "3130897260"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 22 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6741.34,
+    "high": 6741.75,
+    "low": 6655.69,
+    "close": 6699.4,
+    "volume": "3453331996"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 23 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6703.65,
+    "high": 6749.53,
+    "low": 6700.14,
+    "close": 6738.44,
+    "volume": "3329749412"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 24 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6772.07,
+    "high": 6807.11,
+    "low": 6772.07,
+    "close": 6791.69,
+    "volume": "3031884984"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Oct 27 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6845.46,
+    "high": 6877.28,
+    "low": 6843.94,
+    "close": 6875.16,
+    "volume": "3272387626"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Oct 28 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6897.74,
+    "high": 6911.3,
+    "low": 6870.73,
+    "close": 6890.89,
+    "volume": "3375314114"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Oct 29 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6910.95,
+    "high": 6920.34,
+    "low": 6851.91,
+    "close": 6890.59,
+    "volume": "3976377521"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Oct 30 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6860.5,
+    "high": 6880.75,
+    "low": 6820.69,
+    "close": 6822.34,
+    "volume": "3898504090"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Oct 31 2025 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6879.17,
+    "high": 6879.17,
+    "low": 6814.26,
+    "close": 6840.2,
+    "volume": "3788579938"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 03 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6882.32,
+    "high": 6882.32,
+    "low": 6820.62,
+    "close": 6851.97,
+    "volume": "3724495213"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 04 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6788.52,
+    "high": 6820.21,
+    "low": 6766.71,
+    "close": 6771.55,
+    "volume": "3799177585"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 05 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6769.77,
+    "high": 6829.78,
+    "low": 6763.11,
+    "close": 6796.29,
+    "volume": "3507231516"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 06 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6787.59,
+    "high": 6796.68,
+    "low": 6707.51,
+    "close": 6720.32,
+    "volume": "3639500310"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 07 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6696.18,
+    "high": 6730.11,
+    "low": 6631.44,
+    "close": 6728.8,
+    "volume": "3579139418"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 10 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6785.36,
+    "high": 6841.32,
+    "low": 6770.56,
+    "close": 6832.43,
+    "volume": "3170843848"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 11 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6815.64,
+    "high": 6855.13,
+    "low": 6806.87,
+    "close": 6846.61,
+    "volume": "2821611846"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 12 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6867.77,
+    "high": 6869.91,
+    "low": 6829.62,
+    "close": 6850.92,
+    "volume": "2959030743"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 13 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6826.47,
+    "high": 6828.05,
+    "low": 6724.72,
+    "close": 6737.49,
+    "volume": "3403023325"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 14 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6672.14,
+    "high": 6774.31,
+    "low": 6646.87,
+    "close": 6734.11,
+    "volume": "3115363034"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 17 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6713.61,
+    "high": 6754.5,
+    "low": 6638.9,
+    "close": 6672.41,
+    "volume": "3197663713"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 18 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6641.19,
+    "high": 6666.63,
+    "low": 6574.32,
+    "close": 6617.32,
+    "volume": "3313958223"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 19 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6625.84,
+    "high": 6689.75,
+    "low": 6603.5,
+    "close": 6642.16,
+    "volume": "3151936094"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Nov 20 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6737.93,
+    "high": 6770.35,
+    "low": 6534.05,
+    "close": 6538.76,
+    "volume": "3733474928"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 21 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6555.77,
+    "high": 6660.05,
+    "low": 6521.92,
+    "close": 6602.99,
+    "volume": "4022441668"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Nov 24 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6636.54,
+    "high": 6715.75,
+    "low": 6630.7,
+    "close": 6705.12,
+    "volume": "4477655881"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Nov 25 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6697.03,
+    "high": 6776.4,
+    "low": 6659.98,
+    "close": 6765.88,
+    "volume": "3318605316"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Nov 26 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6793.55,
+    "high": 6831.44,
+    "low": 6783.87,
+    "close": 6812.61,
+    "volume": "2726532428"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Nov 28 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6822.52,
+    "high": 6850.86,
+    "low": 6819.75,
+    "close": 6849.09,
+    "volume": "1481565228"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 01 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6812.3,
+    "high": 6843.65,
+    "low": 6799.94,
+    "close": 6812.63,
+    "volume": "2826110786"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 02 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6830.96,
+    "high": 6851.55,
+    "low": 6806.71,
+    "close": 6829.37,
+    "volume": "3027149716"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 03 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6815.29,
+    "high": 6862.42,
+    "low": 6810.43,
+    "close": 6849.72,
+    "volume": "3007544613"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 04 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6866.47,
+    "high": 6866.47,
+    "low": 6827.12,
+    "close": 6857.12,
+    "volume": "2992434261"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 05 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6866.32,
+    "high": 6895.78,
+    "low": 6858.29,
+    "close": 6870.4,
+    "volume": "3173347994"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 08 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6875.2,
+    "high": 6878.27,
+    "low": 6827.19,
+    "close": 6846.51,
+    "volume": "3212401197"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 09 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6840.61,
+    "high": 6864.92,
+    "low": 6837.43,
+    "close": 6840.51,
+    "volume": "2768122026"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 10 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6833.49,
+    "high": 6900.67,
+    "low": 6824.69,
+    "close": 6886.68,
+    "volume": "3547355394"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 11 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6861.3,
+    "high": 6903.46,
+    "low": 6833.45,
+    "close": 6901,
+    "volume": "3159384143"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 12 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6886.85,
+    "high": 6899.85,
+    "low": 6801.79,
+    "close": 6827.41,
+    "volume": "3194992806"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 15 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6860.19,
+    "high": 6861.59,
+    "low": 6801.49,
+    "close": 6816.51,
+    "volume": "3316760177"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 16 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6800.12,
+    "high": 6819.27,
+    "low": 6759.74,
+    "close": 6800.26,
+    "volume": "3221971077"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 17 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6802.88,
+    "high": 6812.26,
+    "low": 6720.43,
+    "close": 6721.43,
+    "volume": "3447183710"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Dec 18 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6778.06,
+    "high": 6816.13,
+    "low": 6758.5,
+    "close": 6774.76,
+    "volume": "3315150046"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 19 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6792.62,
+    "high": 6840.02,
+    "low": 6792.62,
+    "close": 6834.5,
+    "volume": "6830719231"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 22 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6865.21,
+    "high": 6882.03,
+    "low": 6855.74,
+    "close": 6878.49,
+    "volume": "2607784346"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 23 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6872.41,
+    "high": 6910.88,
+    "low": 6868.81,
+    "close": 6909.79,
+    "volume": "2252752911"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 24 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6904.91,
+    "high": 6937.32,
+    "low": 6904.91,
+    "close": 6932.05,
+    "volume": "1087584178"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Dec 26 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6936.02,
+    "high": 6945.77,
+    "low": 6921.6,
+    "close": 6929.94,
+    "volume": "1444593307"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Dec 29 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6903.6,
+    "high": 6920.21,
+    "low": 6888.76,
+    "close": 6905.74,
+    "volume": "1984299606"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Dec 30 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6900.44,
+    "high": 6913.25,
+    "low": 6893.47,
+    "close": 6896.24,
+    "volume": "1726869054"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Dec 31 2025 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6898.82,
+    "high": 6901.42,
+    "low": 6844.55,
+    "close": 6845.5,
+    "volume": "1732129124"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 02 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6878.11,
+    "high": 6894.87,
+    "low": 6824.31,
+    "close": 6858.47,
+    "volume": "2648310467"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 05 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6892.19,
+    "high": 6920.38,
+    "low": 6891.56,
+    "close": 6902.05,
+    "volume": "3439000241"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 06 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6908.03,
+    "high": 6948.69,
+    "low": 6904.02,
+    "close": 6944.82,
+    "volume": "3337323874"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 07 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6945.07,
+    "high": 6965.69,
+    "low": 6919.19,
+    "close": 6920.93,
+    "volume": "3245698610"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 08 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6914.11,
+    "high": 6931.28,
+    "low": 6899.33,
+    "close": 6921.46,
+    "volume": "3199273324"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 09 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6927.83,
+    "high": 6978.36,
+    "low": 6917.64,
+    "close": 6966.28,
+    "volume": "2967586384"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 12 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6944.12,
+    "high": 6986.33,
+    "low": 6934.07,
+    "close": 6977.27,
+    "volume": "3032656002"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 13 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6977.41,
+    "high": 6985.83,
+    "low": 6938.77,
+    "close": 6963.74,
+    "volume": "3228706266"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 14 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6937.41,
+    "high": 6941.3,
+    "low": 6885.74,
+    "close": 6926.6,
+    "volume": "3374469424"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 15 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6969.46,
+    "high": 6979.34,
+    "low": 6937.93,
+    "close": 6944.47,
+    "volume": "3149183085"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 16 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6960.54,
+    "high": 6967.3,
+    "low": 6925.09,
+    "close": 6940.01,
+    "volume": "4024679582"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 20 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6865.24,
+    "high": 6871.17,
+    "low": 6789.05,
+    "close": 6796.86,
+    "volume": "3926653807"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 21 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6810.71,
+    "high": 6910.39,
+    "low": 6804.96,
+    "close": 6875.62,
+    "volume": "3829415724"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 22 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6914.44,
+    "high": 6934.75,
+    "low": 6893.62,
+    "close": 6913.35,
+    "volume": "3341107840"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 23 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6907.85,
+    "high": 6932.96,
+    "low": 6895.5,
+    "close": 6915.61,
+    "volume": "3247886475"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Jan 26 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6923.23,
+    "high": 6964.66,
+    "low": 6921.6,
+    "close": 6950.23,
+    "volume": "3010731990"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Jan 27 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6965.96,
+    "high": 6988.82,
+    "low": 6958.83,
+    "close": 6978.6,
+    "volume": "3246840185"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Jan 28 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 7002,
+    "high": 7002.28,
+    "low": 6963.46,
+    "close": 6978.03,
+    "volume": "3361989186"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Jan 29 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6977.74,
+    "high": 6992.84,
+    "low": 6870.8,
+    "close": 6969.01,
+    "volume": "4140028003"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Jan 30 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6947.27,
+    "high": 6964.09,
+    "low": 6893.48,
+    "close": 6939.03,
+    "volume": "4289605354"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 02 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6916.64,
+    "high": 6991.92,
+    "low": 6914.34,
+    "close": 6976.44,
+    "volume": "3623350119"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 03 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6985.45,
+    "high": 6993.08,
+    "low": 6862.05,
+    "close": 6917.81,
+    "volume": "4556021653"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 04 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6924.5,
+    "high": 6936.09,
+    "low": 6838.8,
+    "close": 6882.72,
+    "volume": "5158679053"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 05 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6837.39,
+    "high": 6857.85,
+    "low": 6780.13,
+    "close": 6798.4,
+    "volume": "4363758492"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 06 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6816.74,
+    "high": 6944.89,
+    "low": 6816.74,
+    "close": 6932.3,
+    "volume": "3864714210"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 09 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6917.26,
+    "high": 6980.1,
+    "low": 6905.87,
+    "close": 6964.82,
+    "volume": "3389805452"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 10 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6974.49,
+    "high": 6986.83,
+    "low": 6937.53,
+    "close": 6941.81,
+    "volume": "3514162509"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 11 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6976.48,
+    "high": 6993.48,
+    "low": 6911.97,
+    "close": 6941.47,
+    "volume": "3772272488"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 12 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6957.54,
+    "high": 6973.22,
+    "low": 6824.04,
+    "close": 6832.76,
+    "volume": "4554768705"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 13 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6834.27,
+    "high": 6881.96,
+    "low": 6794.55,
+    "close": 6836.17,
+    "volume": "3442788443"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 17 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6819.86,
+    "high": 6866.99,
+    "low": 6775.5,
+    "close": 6843.22,
+    "volume": "3336871292"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 18 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6855.48,
+    "high": 6909.12,
+    "low": 6849.66,
+    "close": 6881.31,
+    "volume": "3079622973"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 19 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6861.34,
+    "high": 6879.12,
+    "low": 6833.06,
+    "close": 6861.89,
+    "volume": "2927944362"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 20 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6843.26,
+    "high": 6915.86,
+    "low": 6836.33,
+    "close": 6909.51,
+    "volume": "3373741196"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Feb 23 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6901.25,
+    "high": 6916.96,
+    "low": 6819.82,
+    "close": 6837.75,
+    "volume": "3282404217"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Feb 24 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6837.37,
+    "high": 6899.17,
+    "low": 6815.43,
+    "close": 6890.07,
+    "volume": "3194820890"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Feb 25 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6915.15,
+    "high": 6952.51,
+    "low": 6915.15,
+    "close": 6946.13,
+    "volume": "3306883777"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Feb 26 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6944.74,
+    "high": 6947.25,
+    "low": 6859.73,
+    "close": 6908.86,
+    "volume": "3476868528"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Feb 27 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6856.54,
+    "high": 6882.96,
+    "low": 6831.74,
+    "close": 6878.88,
+    "volume": "4617745404"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 02 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6824.36,
+    "high": 6901.01,
+    "low": 6796.85,
+    "close": 6881.62,
+    "volume": "3497602794"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 03 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6800.26,
+    "high": 6840.05,
+    "low": 6710.42,
+    "close": 6816.63,
+    "volume": "3536987663"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 04 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6831.69,
+    "high": 6885.94,
+    "low": 6811.64,
+    "close": 6869.5,
+    "volume": "3232137389"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 05 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6851.08,
+    "high": 6870.43,
+    "low": 6770.78,
+    "close": 6830.71,
+    "volume": "3726927761"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 06 2026 13:00:00 GMT+0800 (China Standard Time)",
+    "open": 6769.03,
+    "high": 6773.42,
+    "low": 6711.56,
+    "close": 6740.02,
+    "volume": "3413113689"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 09 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6699.8,
+    "high": 6810.44,
+    "low": 6636.04,
+    "close": 6795.99,
+    "volume": "3722873248"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 10 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6796.56,
+    "high": 6845.08,
+    "low": 6759.74,
+    "close": 6781.48,
+    "volume": "3165098323"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 11 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6790.09,
+    "high": 6811.15,
+    "low": 6745.59,
+    "close": 6775.8,
+    "volume": "3004979095"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 12 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6740.88,
+    "high": 6740.88,
+    "low": 6670.4,
+    "close": 6672.62,
+    "volume": "3512326320"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 13 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6673.49,
+    "high": 6733.3,
+    "low": 6623.92,
+    "close": 6632.19,
+    "volume": "2979766381"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 16 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6674.37,
+    "high": 6729.79,
+    "low": 6674.37,
+    "close": 6699.38,
+    "volume": "3042303836"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 17 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6722.35,
+    "high": 6754.3,
+    "low": 6710.8,
+    "close": 6716.09,
+    "volume": "2928358598"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 18 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6697.16,
+    "high": 6705.18,
+    "low": 6621.66,
+    "close": 6624.7,
+    "volume": "3042683122"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 19 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6583.12,
+    "high": 6636.74,
+    "low": 6557.82,
+    "close": 6606.49,
+    "volume": "3260566716"
+  },
+  {
+    "date": "Fri",
+    "timestamp": "Fri Mar 20 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6594.66,
+    "high": 6594.66,
+    "low": 6473.52,
+    "close": 6506.48,
+    "volume": "7054018720"
+  },
+  {
+    "date": "Mon",
+    "timestamp": "Mon Mar 23 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6574.96,
+    "high": 6651.62,
+    "low": 6565.55,
+    "close": 6581,
+    "volume": "3466115676"
+  },
+  {
+    "date": "Tue",
+    "timestamp": "Tue Mar 24 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6552.09,
+    "high": 6595.75,
+    "low": 6525.11,
+    "close": 6556.37,
+    "volume": "3120647537"
+  },
+  {
+    "date": "Wed",
+    "timestamp": "Wed Mar 25 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6598.35,
+    "high": 6633.94,
+    "low": 6568.41,
+    "close": 6591.9,
+    "volume": "2933634803"
+  },
+  {
+    "date": "Thu",
+    "timestamp": "Thu Mar 26 2026 12:00:00 GMT+0800 (China Standard Time)",
+    "open": 6555.86,
+    "high": 6573.22,
+    "low": 6514.73,
+    "close": 6515,
+    "volume": "1213591957"
+  }
+]
