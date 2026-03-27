@@ -1,0 +1,299 @@
+/* style.css */
+
+/* start Base & Reset (基础变量与重置) */
+:root { 
+  --g-size: 32px; 
+}
+
+body { 
+  margin: 0; 
+  padding: 20px; 
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+  background: #f5f7f9; 
+  color: #333; 
+}
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d1d1d1; border-radius: 10px; }
+/* end Base & Reset (基础变量与重置) */
+
+
+/* start Layout (全局骨架布局) */
+#container { 
+  background: #fff; 
+  border-radius: 12px; 
+  padding: 20px; 
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08); 
+  max-width: 1440px; 
+  margin: 0 auto; 
+}
+
+.analysis-grid { 
+  display: grid; 
+  grid-template-columns: 1.3fr 1fr; 
+  gap: 20px; 
+  margin-top: 20px; 
+}
+
+#main { 
+  width: 100%; 
+  height: 500px; 
+  border: 1px solid #f0f0f0; 
+  border-radius: 8px; 
+}
+/* end Layout (全局骨架布局) */
+
+
+/* start Common Components (通用UI组件) */
+.toolbar { display: flex; justify-content: space-between; margin-bottom: 15px; }
+.group { display: flex; gap: 4px; background: #f0f0f0; padding: 3px; border-radius: 6px; }
+
+.btn { 
+  padding: 4px 12px; 
+  border: none; 
+  background: transparent; 
+  cursor: pointer; 
+  border-radius: 4px; 
+  font-size: 12px; 
+  transition: 0.2s; 
+}
+.btn.active { 
+  background: #fff; 
+  color: #ff9800; 
+  font-weight: bold; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.tag { 
+  font-size: 10px; 
+  padding: 1px 5px; 
+  border-radius: 3px; 
+  margin-right: 5px; 
+  border: 1px solid; 
+  font-weight: bold; 
+}
+.tag-t { background: #e6f7ff; color: #1890ff; border-color: #91d5ff; }
+.tag-r { background: #f6ffed; color: #52c41a; border-color: #b7eb8f; }
+
+.up { color: #52c41a; font-weight: bold; }
+.down { color: #f5222d; font-weight: bold; }
+/* end Common Components (通用UI组件) */
+
+
+/* start Data Tables (数据表格通用样式) */
+.box { 
+  background: #fff; 
+  border: 1px solid #eee; 
+  border-radius: 8px; 
+  height: 420px; 
+  overflow-y: auto; 
+  scrollbar-gutter: stable; 
+}
+
+table { width: 100%; border-collapse: collapse; font-size: 12px; }
+th { 
+  background: #fafafa; 
+  padding: 12px; 
+  text-align: left; 
+  position: sticky; 
+  top: 0; 
+  z-index: 10; 
+  border-bottom: 2px solid #eee; 
+  color: #666; 
+}
+td { padding: 10px 12px; border-bottom: 1px solid #f9f9f9; }
+/* end Data Tables (数据表格通用样式) */
+
+
+/* start Fibonacci Module (斐波那契规律面板) */
+.fib-panel { 
+  background: #fffdf6; 
+  border: 1px solid #ffe58f; 
+  border-radius: 8px; 
+  height: 420px; 
+  overflow-y: auto; 
+  scrollbar-gutter: stable; 
+  display: flex; 
+  flex-direction: column; 
+}
+.fib-header { 
+  position: sticky; 
+  top: 0; 
+  background: #fffbe6; 
+  padding: 12px 15px; 
+  border-bottom: 1px solid #ffe58f; 
+  z-index: 10; 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+}
+.prob-val { font-size: 22px; color: #f5222d; font-weight: 800; font-family: "Courier New", monospace; }
+.fib-list { padding: 15px; }
+.fib-item { 
+  margin-bottom: 10px; 
+  padding: 10px; 
+  background: #fff; 
+  border-left: 4px solid #ff9800; 
+  border-radius: 2px; 
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03); 
+}
+/* end Fibonacci Module (斐波那契规律面板) */
+
+
+/* start FFT Module (傅里叶频域分析) */
+.fft-panel { 
+  margin-top: 20px; 
+  background: #f0f7ff; 
+  border: 1px dashed #1890ff; 
+  border-radius: 12px; 
+  padding: 15px; 
+}
+.fft-flex { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px; }
+.fft-card { 
+  background: #fff; 
+  border-left: 4px solid #1890ff; 
+  padding: 10px; 
+  border-radius: 4px; 
+  min-width: 80px; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); 
+}
+.fft-val { font-size: 18px; font-weight: 800; color: #f5222d; font-family: monospace; }
+/* end FFT Module (傅里叶频域分析) */
+
+
+/* start Gann Spiral Module (江恩九方图核心) */
+.gann-section { margin-top: 30px; border-top: 2px solid #eee; padding-top: 20px; }
+.gann-ctrl { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; font-size: 13px; font-weight: bold; }
+.gann-wrap { 
+  overflow: auto; 
+  background: #fff; 
+  padding: 15px; 
+  border: 1px solid #eee; 
+  border-radius: 8px; 
+  display: flex; 
+  justify-content: center; 
+}
+
+.gann-table { border-collapse: collapse; table-layout: fixed; width: auto; }
+.gann-table td { 
+  width: var(--g-size); 
+  height: var(--g-size); 
+  border: 1px solid #e2e8f0; 
+  padding: 0; 
+  background: #fff; 
+  box-sizing: border-box; 
+  aspect-ratio: 1 / 1; 
+  position: relative; 
+}
+
+/* 单元格UI细节 */
+.c-box { 
+  display: flex; flex-direction: column; justify-content: center; align-items: center; 
+  height: 100%; width: 100%; position: relative; z-index: 2; 
+}
+.c-date { font-weight: 700; font-size: calc(var(--g-size) * 0.3); color: #1e293b; line-height: 1.1; }
+.c-num { font-size: calc(var(--g-size) * 0.2); opacity: 0.4; }
+.hide-text .c-box { visibility: hidden; }
+
+/* 斑马纹与特殊点位 */
+.g-layer-even { background-color: #ffffff !important; }
+.g-layer-odd { background-color: #f8fafc !important; }
+.g-center { background: #fff7e6 !important; outline: 1.5px solid #ffa940; position: relative; z-index: 5; }
+.g-peak { background: #f6ffed !important; border: 2.5px solid #52c41a !important; }
+.g-valley { background: #fff1f0 !important; border: 2.5px solid #f5222d !important; }
+
+/* 对角线虚线 */
+.g-diag { background: #f8fafc; }
+.g-diag::after { 
+  content: ""; position: absolute; top: 2px; left: 2px; right: 2px; bottom: 2px; 
+  border: 1px dashed #cbd5e1; pointer-events: none; z-index: 1; background-color: #cbd5e1; 
+}
+
+/* 休市控制开关与样式 */
+.holiday-toggle { 
+  display: flex; align-items: center; gap: 8px; background: #fffbe6; 
+  padding: 4px 12px; border: 1px solid #ffe58f; border-radius: 6px; 
+  font-size: 12px; cursor: pointer; 
+}
+.g-holiday { transition: all 0.2s; }
+.hide-holiday .g-holiday .c-box { visibility: hidden; }
+.hide-holiday .g-holiday { background-color: transparent !important; }
+/* end Gann Spiral Module (江恩九方图核心) */
+
+
+/* start Common Components (通用UI组件) - 新增年份多选 */
+.year-selector {
+  display: flex;
+  gap: 8px;
+}
+
+/* 多选按钮基础样式 */
+.btn-year {
+  padding: 6px 14px;
+  border: 1px solid #d9d9d9;
+  background: #fff;
+  border-radius: 4px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.3s;
+  color: #666;
+}
+
+/* 选中后的样式 (支持多选) */
+.btn-year.active {
+  background: #1890ff;
+  color: #fff;
+  border-color: #1890ff;
+  box-shadow: 0 2px 4px rgba(24, 144, 255, 0.3);
+}
+
+.btn-year:hover {
+  border-color: #40a9ff;
+  color: #40a9ff;
+}
+/* end Common Components (通用UI组件) */
+
+
+/* start Gann Spiral Module (九方图渲染增强) */
+/* 基础转折点样式 */
+.g-turning-point {
+  position: relative;
+  z-index: 5;
+  transition: transform 0.2s;
+}
+
+/* 对应年份的高亮背景 - 使用半透明叠加，防止覆盖底色 */
+.year-2023 { background-color: rgba(24, 144, 255, 0.15) !important; outline: 1px solid #1890ff; }
+.year-2024 { background-color: rgba(82, 196, 26, 0.15) !important; outline: 1px solid #52c41a; }
+.year-2025 { background-color: rgba(250, 173, 20, 0.15) !important; outline: 1px solid #faad14; }
+
+/* 鼠标悬停时的放大效果 */
+.g-turning-point:hover {
+  transform: scale(1.1);
+  z-index: 10;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+  cursor: pointer;
+}
+/* end Gann Spiral Module (九方图渲染增强) */
+
+/* --- 追加：年份多选视觉标识 --- */
+.g-cell.year-active {
+  position: relative;
+  z-index: 5;
+  box-shadow: inset 0 0 8px rgba(0,0,0,0.1);
+}
+
+/* 为不同年份定义边框色，不遮挡原本的红绿背景 */
+/* .y-2023 { outline: 2px solid #1890ff !important; outline-offset: -2px; } */
+/* .y-2024 { outline: 2px solid #52c41a !important; outline-offset: -2px; } */
+/* .y-2025 { outline: 2px solid #faad14 !important; outline-offset: -2px; } */
+/* .y-2026 { outline: 2px solid #722ed1 !important; outline-offset: -2px; } */
+/* .y-2027 { outline: 2px solid #13c2c2 !important; outline-offset: -2px; } */
+
+/* 鼠标悬停增强 */
+/* .g-cell.year-active:hover {
+  transform: scale(1.1);
+  z-index: 100;
+  cursor: pointer;
+} */
