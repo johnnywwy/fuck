@@ -543,34 +543,29 @@
         },
       };
 
-      // --- 九方图核心逻辑 (新增) ---
+      // --- 九方图核心逻辑 (动态行列版) ---
       const gann = {
         anchor: new Date(2023, 0, 1),
+        layers: 13, // 默认向外扩展8层 (形成 17x17 的矩阵)
+
         updateSize(v) {
           document.documentElement.style.setProperty("--g-size", v + "px");
           document.getElementById("gLabel").innerText = v + "px";
           const t = document.querySelector(".gann-table");
-          if (t)
-            v < 22
-              ? t.classList.add("hide-text")
-              : t.classList.remove("hide-text");
+          if (t) v < 22 ? t.classList.add("hide-text") : t.classList.remove("hide-text");
         },
+
         paint() {
           if (!app.pivots.length) return;
-          // 先清理旧颜色
-          document
-            .querySelectorAll(".g-cell")
-            .forEach(
-              (c) =>
-                (c.className = c.className
-                  .replace(/g-peak|g-valley/g, "")
-                  .trim()),
-            );
+          // 清理旧颜色
+          document.querySelectorAll(".g-cell").forEach(c => {
+            c.className = c.className.replace(/g-peak|g-valley/g, "").trim();
+          });
 
           const pMap = {};
-          app.pivots.forEach(
-            (p) => (pMap[app.data[p.index].fullDate] = p.type),
-          );
+          app.pivots.forEach(p => {
+            pMap[app.data[p.index].fullDate] = p.type;
+          });
 
           document.querySelectorAll(".g-cell").forEach((c) => {
             const d = c.getAttribute("data-d");
@@ -578,37 +573,49 @@
             else if (pMap[d] === "Peak") c.classList.add("g-peak");
           });
         },
+
         initSpiral() {
-          const S = 28;
-          const m = Array(S)
-            .fill()
-            .map(() => Array(S).fill(0));
-          let x = 13,
-            y = 14,
-            val = 1,
-            step = 1;
+          // 根据“向外扩展8行8列”的逻辑，计算矩阵边长
+          // L层扩展，总边长为 2L + 1
+          const S = (this.layers * 2) + 1; 
+          const m = Array(S).fill().map(() => Array(S).fill(0));
+          
+          // 起始点：正中心
+          let x = Math.floor(S / 2);
+          let y = Math.floor(S / 2);
+          
+          let val = 1;
+          let step = 1;
           m[y][x] = val;
+
+          // 螺旋算法：左 -> 上 -> 右 -> 下 (逆时针向外)
           while (val < S * S) {
+            // 向左走 step 步
             for (let i = 0; i < step && val < S * S; i++) {
-              x--;
+              x--; 
               if (x >= 0 && x < S) m[y][x] = ++val;
             }
+            // 向上走 step 步
             for (let i = 0; i < step && val < S * S; i++) {
-              y--;
+              y--; 
               if (y >= 0 && y < S) m[y][x] = ++val;
             }
             step++;
+            // 向右走 step 步
             for (let i = 0; i < step && val < S * S; i++) {
-              x++;
+              x++; 
               if (x >= 0 && x < S) m[y][x] = ++val;
             }
+            // 向下走 step 步
             for (let i = 0; i < step && val < S * S; i++) {
-              y++;
+              y++; 
               if (y >= 0 && y < S) m[y][x] = ++val;
             }
             step++;
           }
-          let h = '<table class="gann-table">';
+
+          // 渲染 HTML
+          let h = `<table class="gann-table" style="border: 2px solid #333;">`;
           for (let r = 0; r < S; r++) {
             h += "<tr>";
             for (let c = 0; c < S; c++) {
@@ -616,10 +623,22 @@
               const d = new Date(this.anchor);
               d.setDate(d.getDate() + (v - 1));
               const fStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+              
               let cls = "g-cell";
+              // 中心点样式
               if (v === 1) cls += " g-center";
-              if (r === c || r + c === S - 1) cls += " g-diag";
-              h += `<td class="${cls}" data-d="${fStr}"><div class="c-box"><span class="c-date">${d.getMonth() + 1}/${d.getDate()}</span><span class="c-num">${v}</span></div></td>`;
+              // 角度线：十字轴 + 对角线
+              const mid = Math.floor(S / 2);
+              if (r === c || r + c === S - 1 || r === mid || c === mid) {
+                cls += " g-diag";
+              }
+              
+              h += `<td class="${cls}" data-d="${fStr}" title="天数: ${v}">
+                      <div class="c-box">
+                        <span class="c-date">${d.getMonth() + 1}/${d.getDate()}</span>
+                        <span class="c-num">${v}</span>
+                      </div>
+                    </td>`;
             }
             h += "</tr>";
           }
@@ -627,41 +646,75 @@
         },
       };
 
-      // --- 追加：傅里叶计算逻辑 ---
+      // --- 核心：提取【周期+次数+强度】的完整频率分析 ---
       window.runFFT = (pivots) => {
         if (pivots.length < 6) return;
+        
         const n = 512;
         const signal = new Float64Array(n).fill(0);
         const start = pivots[0].index;
+        const end = pivots[pivots.length - 1].index;
+        const totalDays = end - start; // 当前观察的总天数窗口
+
         pivots.forEach((p, i) => {
-          if (i > 0)
-            signal[Math.min(n - 1, p.index - start)] = Math.abs(
-              p.price - pivots[i - 1].price,
-            );
+          if (i > 0) {
+            const t = Math.min(n - 1, p.index - start);
+            signal[t] = Math.abs(p.price - pivots[i - 1].price);
+          }
         });
 
         let spectrum = [];
         for (let k = 2; k < n / 2; k++) {
-          let re = 0,
-            im = 0;
+          let re = 0, im = 0;
           for (let t = 0; t < n; t++) {
             let a = (2 * Math.PI * k * t) / n;
             re += signal[t] * Math.cos(a);
             im -= signal[t] * Math.sin(a);
           }
-          let period = Math.round(n / k);
-          if (period >= 3 && period <= 180)
-            spectrum.push({ period, amp: Math.sqrt(re * re + im * im) });
+          
+          let period = Math.round(n / k); // 周期：多少天一个循环
+          let amp = Math.sqrt(re * re + im * im); // 强度：波动的能量
+          
+          // 【计算次数】：在当前显示的这段时间里，该周期重复了多少次
+          let occurrences = (totalDays / period).toFixed(1);
+
+          if (period >= 3 && period <= 180) {
+            spectrum.push({ period, amp, occurrences });
+          }
         }
+
+        // 按强度排序取前 5
         const tops = spectrum
           .sort((a, b) => b.amp - a.amp)
           .filter((v, i, a) => a.findIndex((t) => t.period === v.period) === i)
           .slice(0, 5);
+
+        if (tops.length === 0) return;
+        
+        const maxAmp = tops[0].amp;
+
+        // 渲染面板：天数、重复次数、能量强度一目了然
         document.getElementById("fftResult").innerHTML = tops
-          .map(
-            (t) =>
-              `<div class="fft-card"><span class="fft-val">${t.period}</span>天<br><small style="color:#888">共振强度</small></div>`,
-          )
+          .map((t) => {
+            const strength = ((t.amp / maxAmp) * 100).toFixed(0);
+            return `
+              <div class="fft-card" style="border-left: 5px solid #ff4d4f; min-width:130px; background:#fff; padding:10px;">
+                <div style="font-size: 11px; color: #888; margin-bottom:2px;">主导频率</div>
+                <div style="font-size: 20px; font-weight: 900; color: #111;">
+                  ${t.period} <small style="font-size:12px;">天/次</small>
+                </div>
+                <div style="margin-top:8px; font-size:12px; color:#f5222d;">
+                  🔄 重复了 <b>${t.occurrences}</b> 轮
+                </div>
+                <div style="margin-top:4px; font-size:11px; color:#666;">
+                  能量强度: ${Math.round(t.amp)}
+                </div>
+                <div style="width:100%; height:3px; background:#eee; margin-top:6px;">
+                  <div style="width:${strength}%; height:100%; background:#ff4d4f;"></div>
+                </div>
+              </div>
+            `;
+          })
           .join("");
       };
 
